@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Indian Food Identifier</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <div class="container">
+        
+        <header>
+            <h1>Indian Food Classifier</h1>
+            <p>Use your camera or upload a photo to get the recipe!</p>
+        </header>
+
+        <div class="mode-switcher">
+            <button id="show-upload-btn" class="active">
+                <span class="icon">📤</span>
+                <span class="text">Upload</span>
+            </button>
+            <button id="show-camera-btn">
+                <span class="icon">📸</span>
+                <span class="text">Camera</span>
+            </button>
+        </div>
+
+        <main>
+            <div id="upload-view">
+                <label for="imageUpload" class="file-drop-zone">
+                    <span class="drop-zone-icon">🖼️</span>
+                    <span class="drop-zone-text">Click to browse or drop image here</span>
+                </label>
+                <input type="file" id="imageUpload" accept="image/*">
+            </div>
+
+            <div id="camera-view" style="display:none;">
+                <video id="video-feed" autoplay playsinline></video>
+                <button id="snap-btn" class="action-button">Snap Picture</button>
+            </div>
+            
+            <div id="image-preview-container" style="display:none;">
+                 <img id="uploadedImage" src="" alt="Captured or Uploaded Image"/>
+                 <button id="predictButton" class="action-button">Find Recipe</button>
+            </div>
+        </main>
+
+        <hr>
+
+        <section id="results-section" style="display:none;">
+            <div id="result"></div>
+            <div id="recipe-container"></div>
+        </section>
+        
+        <div id="spinner" class="spinner-container" style="display:none;">
+            <div class="spinner"></div>
+        </div>
+
+    </div>
+
+    <script src="{{ url_for('static', filename='static.js') }}"></script>
+</body>
+</html>

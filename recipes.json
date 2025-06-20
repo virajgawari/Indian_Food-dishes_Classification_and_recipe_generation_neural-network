@@ -1,0 +1,3065 @@
+{
+  "recipes": [
+    {
+      "name": "Adhirasam",
+      "folderName": "adhirasam",
+      "description": "A traditional South Indian sweet pastry made from rice flour and jaggery, deep-fried to a golden brown.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes (plus 24-36 hours for dough)",
+      "cookTime": "30 minutes",
+      "servings": "15-20",
+      "ingredients": [
+        { "name": "Raw rice", "quantity": 1, "unit": "cup" },
+        { "name": "Jaggery, powdered", "quantity": 0.75, "unit": "cup" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Dry ginger powder", "quantity": 0.25, "unit": "teaspoon" },
+        { "name": "Sesame seeds", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Oil or Ghee", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "Wash and soak rice for 2 hours. Drain completely and spread on a cloth to air dry for 15-20 minutes. It should be moist but not wet.",
+        "Grind the rice to a fine powder. Sieve it to get a smooth flour.",
+        "In a pan, add jaggery and 1/4 cup of water. Heat until the jaggery dissolves. Strain to remove impurities.",
+        "Heat the jaggery syrup again until it reaches a soft ball consistency (a drop in water should form a soft ball).",
+        "Turn off the heat. Gradually add the rice flour to the syrup, stirring continuously to avoid lumps. Add cardamom and ginger powder.",
+        "The dough will be sticky. Transfer to a container, press it down, and let it ferment for 24-36 hours at room temperature.",
+        "After fermentation, knead the dough gently. Take a small portion, flatten it on a greased sheet, sprinkle with sesame seeds, and press lightly.",
+        "Heat oil in a pan. Gently slide the adhirasam into the hot oil and fry on medium-low heat until golden brown on both sides.",
+        "Press the fried adhirasam between two flat ladles to remove excess oil. Cool and store."
+      ],
+      "notes": [
+        "The jaggery syrup consistency is crucial for the perfect texture.",
+        "The dough can be refrigerated for a few weeks."
+      ]
+    },
+    {
+      "name": "Aloo Gobi",
+      "folderName": "aloo_gobi",
+      "description": "A classic North Indian dry curry made with potatoes (aloo) and cauliflower (gobi), sautéed with onions, tomatoes, and aromatic spices.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "25 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Cauliflower (gobi), florets", "quantity": 1, "unit": "medium head" },
+        { "name": "Potatoes (aloo), cubed", "quantity": 2, "unit": "medium" },
+        { "name": "Onion, finely chopped", "quantity": 1, "unit": "large" },
+        { "name": "Tomatoes, chopped", "quantity": 2, "unit": "medium" },
+        { "name": "Ginger-garlic paste", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Cumin seeds", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Red chili powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Coriander powder", "quantity": 1.5, "unit": "teaspoons" },
+        { "name": "Garam masala", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Oil", "quantity": 3, "unit": "tablespoons" },
+        { "name": "Fresh cilantro, chopped", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Heat oil in a large pan or kadai. Add cumin seeds and let them splutter.",
+        "Add the chopped onion and sauté until translucent.",
+        "Add ginger-garlic paste and cook for another minute until the raw smell disappears.",
+        "Add chopped tomatoes and cook until they turn soft.",
+        "Add all the spice powders: turmeric, red chili, and coriander powder. Sauté for a minute.",
+        "Add the potato cubes and cauliflower florets. Mix well to coat the vegetables with the spice masala.",
+        "Add salt, mix, cover the pan, and cook on low-medium heat for 15-20 minutes, or until the vegetables are tender. Stir occasionally to prevent sticking.",
+        "Once cooked, sprinkle garam masala and chopped cilantro over the top.",
+        "Serve hot with roti, chapati, or naan."
+      ],
+      "notes": [
+        "You can add a splash of water while cooking if the curry seems too dry.",
+        "For a crispier texture, you can lightly fry the potatoes and cauliflower separately before adding them to the masala."
+      ]
+    },
+    {
+      "name": "Aloo Matar",
+      "folderName": "aloo_matar",
+      "description": "A simple and comforting North Indian curry made with potatoes (aloo) and green peas (matar) in a spiced tomato-based gravy.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "10 minutes",
+      "cookTime": "20 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Potatoes (aloo), cubed", "quantity": 3, "unit": "medium" },
+        { "name": "Green peas (matar)", "quantity": 1, "unit": "cup" },
+        { "name": "Onion, finely chopped", "quantity": 1, "unit": "large" },
+        { "name": "Tomato puree", "quantity": 1, "unit": "cup" },
+        { "name": "Ginger-garlic paste", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Cumin seeds", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Red chili powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Coriander powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Garam masala", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Oil", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Water", "quantity": 1.5, "unit": "cups" },
+        { "name": "Fresh cilantro, chopped", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Heat oil in a pressure cooker or a deep pan. Add cumin seeds.",
+        "When they crackle, add the chopped onion and sauté until light brown.",
+        "Add ginger-garlic paste and cook for a minute.",
+        "Add tomato puree and cook until the oil starts to separate from the masala.",
+        "Add turmeric, red chili, and coriander powder. Sauté for a minute.",
+        "Add the cubed potatoes and green peas. Stir for 2-3 minutes.",
+        "Add water and salt. Stir well.",
+        "If using a pressure cooker, cook for 2 whistles. If using a pan, cover and simmer for 15-20 minutes until potatoes are cooked.",
+        "Once done, add garam masala and garnish with fresh cilantro.",
+        "Serve hot with rice or roti."
+      ],
+      "notes": [
+        "You can use either fresh or frozen peas for this recipe.",
+        "Adjust the amount of water based on your desired gravy consistency."
+      ]
+    },
+    {
+      "name": "Aloo Methi",
+      "folderName": "aloo_methi",
+      "description": "A flavorful and healthy North Indian dish made with potatoes (aloo) and fresh fenugreek leaves (methi), stir-fried with simple spices.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes",
+      "cookTime": "20 minutes",
+      "servings": "3-4",
+      "ingredients": [
+        { "name": "Fresh fenugreek leaves (methi), chopped", "quantity": 2, "unit": "cups" },
+        { "name": "Potatoes (aloo), cubed", "quantity": 2, "unit": "large" },
+        { "name": "Garlic, finely chopped", "quantity": 4, "unit": "cloves" },
+        { "name": "Dry red chilies", "quantity": 2, "unit": "pieces" },
+        { "name": "Cumin seeds", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Asafoetida (hing)", "quantity": 0.25, "unit": "teaspoon" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Oil", "quantity": 3, "unit": "tablespoons" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Wash the fenugreek leaves thoroughly to remove any dirt. Chop them finely.",
+        "Heat oil in a pan. Add cumin seeds. Once they splutter, add asafoetida, dry red chilies, and chopped garlic.",
+        "Sauté the garlic until it turns light golden.",
+        "Add the cubed potatoes and turmeric powder. Mix well and cook covered on low heat for about 10 minutes until the potatoes are partially cooked.",
+        "Add the chopped fenugreek leaves and salt. Mix everything well.",
+        "Cook uncovered on medium heat, stirring occasionally, until the methi leaves wilt and the potatoes are fully cooked.",
+        "The moisture from the leaves should evaporate, leaving a dry stir-fry.",
+        "Serve hot with rotis or parathas."
+      ],
+      "notes": [
+        "To reduce the bitterness of methi leaves, you can sprinkle some salt on them, let them rest for 15 minutes, and then squeeze out the bitter juices before cooking.",
+        "Do not overcook the methi as it can become more bitter."
+      ]
+    },
+    {
+      "name": "Aloo Shimla Mirch",
+      "folderName": "aloo_shimla_mirch",
+      "description": "A quick and easy North Indian stir-fry made with potatoes (aloo) and bell peppers (Shimla mirch) in a blend of everyday spices.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "servings": "3-4",
+      "ingredients": [
+        { "name": "Potatoes (aloo), cubed", "quantity": 3, "unit": "medium" },
+        { "name": "Bell peppers (Shimla mirch), cubed", "quantity": 2, "unit": "medium" },
+        { "name": "Onion, sliced", "quantity": 1, "unit": "medium" },
+        { "name": "Tomato, chopped", "quantity": 1, "unit": "large" },
+        { "name": "Cumin seeds", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Red chili powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Coriander powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Amchur (dry mango powder)", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Oil", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Heat oil in a pan. Add cumin seeds and let them crackle.",
+        "Add the sliced onions and sauté until they turn translucent.",
+        "Add the cubed potatoes and a pinch of salt. Cover and cook on low heat for 10-12 minutes, or until the potatoes are 80% cooked.",
+        "Add the cubed bell peppers and chopped tomatoes. Mix well.",
+        "Add all the spice powders: turmeric, red chili, and coriander powder. Add the remaining salt.",
+        "Stir everything together and cook uncovered for 5-7 minutes, until the bell peppers are tender-crisp and potatoes are fully cooked.",
+        "Sprinkle with amchur powder and mix well.",
+        "Serve hot with roti or as a side dish."
+      ],
+      "notes": [
+        "You can use different colored bell peppers for a more vibrant dish.",
+        "Avoid overcooking the bell peppers to maintain their crunch."
+      ]
+    },
+    {
+      "name": "Aloo Tikki",
+      "folderName": "aloo_tikki",
+      "description": "A popular Indian street food snack made of boiled potatoes, peas, and various spices, pan-fried or shallow-fried until crisp.",
+      "course": "Snack",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes",
+      "cookTime": "20 minutes",
+      "servings": "8-10 tikkis",
+      "ingredients": [
+        { "name": "Potatoes, boiled and mashed", "quantity": 4, "unit": "large" },
+        { "name": "Breadcrumbs or Poha (flattened rice), powdered", "quantity": 0.25, "unit": "cup" },
+        { "name": "Green peas, boiled and lightly mashed", "quantity": 0.5, "unit": "cup" },
+        { "name": "Green chilies, finely chopped", "quantity": 2, "unit": "pieces" },
+        { "name": "Ginger, grated", "quantity": 1, "unit": "inch" },
+        { "name": "Coriander powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Chaat masala", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Amchur (dry mango powder)", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Fresh cilantro, chopped", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Oil", "quantity": null, "unit": "for shallow frying" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Ensure the boiled potatoes are completely cool and dry. Mash them well in a large bowl.",
+        "Add breadcrumbs (or powdered poha), green peas, green chilies, ginger, cilantro, and all the spice powders (coriander, chaat masala, amchur) to the mashed potatoes.",
+        "Add salt and mix everything together to form a non-sticky dough.",
+        "Divide the mixture into equal portions and shape them into round, flat patties (tikkis).",
+        "Heat a tawa or a flat pan with 2-3 tablespoons of oil.",
+        "Carefully place the tikkis on the pan and cook on medium heat until the bottom is golden brown and crisp.",
+        "Flip the tikkis, add a little more oil if needed, and cook the other side until golden and crisp.",
+        "Serve hot with yogurt, tamarind chutney, and mint chutney as Aloo Tikki Chaat."
+      ],
+      "notes": [
+        "Using breadcrumbs or powdered poha helps in binding the tikkis and makes them crispy.",
+        "You can also stuff the tikkis with a mixture of chana dal and spices."
+      ]
+    },
+    {
+      "name": "Anarsa",
+      "folderName": "anarsa",
+      "description": "A traditional Indian sweet snack, popular in Maharashtra and Bihar, made from fermented rice flour dough, jaggery, and coated with poppy seeds.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes (plus 2-3 days fermentation)",
+      "cookTime": "20 minutes",
+      "servings": "15-20",
+      "ingredients": [
+        { "name": "Rice (any short-grain variety)", "quantity": 1, "unit": "cup" },
+        { "name": "Jaggery, powdered", "quantity": 1, "unit": "cup" },
+        { "name": "Ghee", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Poppy seeds (khus khus)", "quantity": 0.25, "unit": "cup" },
+        { "name": "Ghee or Oil", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "Wash and soak the rice in water for 3 days, changing the water every day.",
+        "On the fourth day, drain the rice completely and spread it on a cloth to dry for about an hour. The rice should be moist.",
+        "Grind the rice into a fine powder and sieve it.",
+        "In a bowl, mix the rice flour and powdered jaggery thoroughly. Add 1 tbsp of ghee and knead into a dough. It will be loose at first.",
+        "Place the dough in an airtight container and let it ferment for 2-4 days. It will firm up.",
+        "After fermentation, take small portions of the dough and roll them into smooth balls.",
+        "Spread poppy seeds on a plate. Flatten each ball into a small disc and press one side onto the poppy seeds.",
+        "Heat ghee or oil in a pan on medium-low heat.",
+        "Gently slide the anarsas into the hot ghee, poppy-seed side up. Do not flip them. Use a ladle to splash hot ghee over the top.",
+        "Fry until the bottom is golden brown. The top will be white.",
+        "Drain and let them cool. They will become crisp as they cool."
+      ],
+      "notes": [
+        "The fermentation process is key to developing the unique flavor of anarsa.",
+        "Frying on low heat is essential to cook them properly from the inside."
+      ]
+    },
+    {
+      "name": "Ariselu",
+      "folderName": "ariselu",
+      "description": "A traditional sweet from Andhra Pradesh, also known as Adhirasam in Tamil Nadu, made from rice flour and jaggery.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes (plus 24 hours for dough)",
+      "cookTime": "30 minutes",
+      "servings": "20-25",
+      "ingredients": [
+        { "name": "Raw rice", "quantity": 1, "unit": "cup" },
+        { "name": "Jaggery, grated", "quantity": 0.75, "unit": "cup" },
+        { "name": "Coconut, grated (optional)", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Cardamom powder", "quantity": 0.25, "unit": "teaspoon" },
+        { "name": "Sesame seeds", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Oil or Ghee", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "Soak rice for 4-5 hours, drain, and grind into a fine, moist flour.",
+        "In a thick-bottomed pan, melt the jaggery with 1/4 cup of water to make a syrup. Strain it.",
+        "Cook the syrup until it reaches a soft ball consistency.",
+        "Turn off the heat. Gradually add the rice flour to the syrup, stirring continuously. Add cardamom powder and grated coconut.",
+        "Mix into a soft dough. Let this dough rest for at least 24 hours.",
+        "Take a small portion of the dough, shape it into a ball, and flatten it on a greased plastic sheet or banana leaf.",
+        "Sprinkle with sesame seeds and press gently.",
+        "Heat oil in a kadai. Carefully slide the flattened dough into the hot oil.",
+        "Fry on medium heat until golden brown on both sides.",
+        "Remove from oil and press gently between two flat ladles to drain excess oil. Cool and store."
+      ],
+      "notes": [
+        "This is essentially the same dish as Adhirasam, with slight regional variations in name and preparation.",
+        "Using freshly milled moist rice flour gives the best results."
+      ]
+    },
+    {
+      "name": "Bandar Laddu",
+      "folderName": "bandar_laddu",
+      "description": "A famous sweet from Bandar (Machilipatnam) in Andhra Pradesh, made from besan (gram flour) and jaggery or sugar syrup, known for its unique texture.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes",
+      "cookTime": "40 minutes",
+      "servings": "15-20 laddus",
+      "ingredients": [
+        { "name": "Besan (gram flour)", "quantity": 2, "unit": "cups" },
+        { "name": "Sugar", "quantity": 2, "unit": "cups" },
+        { "name": "Ghee", "quantity": 1, "unit": "cup" },
+        { "name": "Cardamom powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Cashews, chopped", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Oil", "quantity": null, "unit": "for frying boondi" }
+      ],
+      "instructions": [
+        "Make a free-flowing batter with besan and water, similar to dosa batter consistency.",
+        "Heat oil in a kadai. Hold a perforated ladle over the hot oil and pour the batter through it to make boondi. Fry until crisp but not brown. Drain and set aside.",
+        "In a separate pan, prepare a sugar syrup with sugar and 1 cup of water. Cook until it reaches a one-string consistency.",
+        "Let the fried boondi cool slightly, then grind it into a coarse powder.",
+        "Add the coarse boondi powder to the hot sugar syrup. Add cardamom powder, chopped cashews, and half of the ghee. Mix well.",
+        "Turn off the heat and let the mixture cool down until it is warm enough to handle.",
+
+        "Add the remaining ghee and mix. Grease your palms with ghee and shape the mixture into round laddus.",
+        "Let them set for a few hours before serving."
+      ],
+      "notes": [
+        "The unique step of grinding the boondi gives this laddu its characteristic texture.",
+        "Do not over-fry the boondi, as it will absorb less syrup."
+      ]
+    },
+    {
+      "name": "Basundi",
+      "folderName": "basundi",
+      "description": "A rich and creamy Indian dessert from Western India, made by slowly simmering full-fat milk until it reduces and thickens, flavored with cardamom and nuts.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "5 minutes",
+      "cookTime": "1 hour",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Full-fat milk", "quantity": 1.5, "unit": "liters" },
+        { "name": "Sugar", "quantity": 0.5, "unit": "cup" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Saffron strands, soaked in milk", "quantity": 1, "unit": "pinch" },
+        { "name": "Almonds, slivered", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Pistachios, slivered", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Charoli (chironji) nuts (optional)", "quantity": 1, "unit": "tablespoon" }
+      ],
+      "instructions": [
+        "Pour the milk into a thick-bottomed, wide pan and bring it to a boil.",
+        "Reduce the heat to medium-low and let the milk simmer. Stir frequently to prevent it from sticking to the bottom.",
+        "As a layer of cream (malai) forms on top, gently push it to the sides of the pan.",
+        "Continue simmering and pushing the cream to the sides until the milk has reduced to about half its original volume. This will take 45-60 minutes.",
+        "Once the milk has thickened, scrape the cream from the sides and mix it back into the milk. This gives basundi its characteristic lumpy texture.",
+        "Add sugar, cardamom powder, and soaked saffron. Stir until the sugar dissolves completely.",
+        "Add the slivered almonds, pistachios, and charoli. Simmer for another 5 minutes.",
+        "Turn off the heat and let it cool. Basundi thickens further as it cools.",
+        "Serve chilled or warm."
+      ],
+      "notes": [
+        "Using full-fat milk is essential for a creamy and rich basundi.",
+        "Constant stirring and a heavy-bottomed pan are key to prevent the milk from scorching."
+      ]
+    },
+    {
+      "name": "Bhatura",
+      "folderName": "bhatura",
+      "description": "A soft, fluffy, and deep-fried leavened bread from North India, famously paired with Chole (chickpea curry) to make Chole Bhature.",
+      "course": "Bread",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes (plus 2-4 hours resting)",
+      "cookTime": "20 minutes",
+      "servings": "8-10 bhaturas",
+      "ingredients": [
+        { "name": "All-purpose flour (Maida)", "quantity": 2, "unit": "cups" },
+        { "name": "Semolina (Sooji/Rava)", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Yogurt", "quantity": 0.5, "unit": "cup" },
+        { "name": "Sugar", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Baking soda", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Salt", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Oil", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Warm water", "quantity": null, "unit": "as needed" },
+        { "name": "Oil", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "In a large bowl, combine maida, sooji, sugar, baking soda, and salt. Mix well.",
+        "Add yogurt and 2 tablespoons of oil. Mix to combine.",
+        "Gradually add warm water and knead into a soft, smooth, and pliable dough. The dough should be soft, not stiff.",
+        "Grease the dough with a little oil, cover with a damp cloth, and let it rest in a warm place for at least 2-4 hours.",
+        "After resting, knead the dough again for a minute. Divide it into equal-sized balls.",
+        "Take one ball, dust it with a little flour, and roll it into an oval or round shape of about 6-7 inches in diameter. It should not be too thin or too thick.",
+        "Heat oil for deep frying in a kadai on high heat. The oil must be very hot.",
+        "Gently slide the rolled bhatura into the hot oil. Press it down lightly with a spatula to help it puff up.",
+        "Flip it over and fry the other side until it's golden brown.",
+        "Remove from the oil and drain on a paper towel.",
+        "Serve immediately with chole."
+      ],
+      "notes": [
+        "The dough must be soft and well-rested for fluffy bhaturas.",
+        "Frying in very hot oil is crucial for the bhatura to puff up instantly."
+      ]
+    },
+    {
+      "name": "Bhindi Masala",
+      "folderName": "bhindi_masala",
+      "description": "A popular Indian dish made with okra (bhindi), onions, tomatoes, and a blend of spices. It can be made as a dry stir-fry or with a slight gravy.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "25 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Okra (Bhindi), chopped", "quantity": 500, "unit": "grams" },
+        { "name": "Onion, finely chopped", "quantity": 2, "unit": "medium" },
+        { "name": "Tomato, chopped", "quantity": 2, "unit": "medium" },
+        { "name": "Ginger-garlic paste", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Cumin seeds", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Red chili powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Coriander powder", "quantity": 1.5, "unit": "teaspoons" },
+        { "name": "Amchur (dry mango powder)", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Garam masala", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Oil", "quantity": 3, "unit": "tablespoons" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Wash the okra and pat them completely dry with a cloth before chopping. This reduces sliminess.",
+        "Heat 2 tablespoons of oil in a pan. Add the chopped okra and sauté on medium heat for 8-10 minutes until they are cooked and no longer slimy. Remove from the pan and set aside.",
+        "In the same pan, add the remaining 1 tablespoon of oil. Add cumin seeds and let them splutter.",
+        "Add the chopped onions and sauté until they turn golden brown.",
+        "Add ginger-garlic paste and cook for a minute.",
+        "Add the chopped tomatoes and cook until they become soft and mushy.",
+        "Add all the spice powders: turmeric, red chili, and coriander. Mix well and cook for 2 minutes.",
+        "Add the sautéed okra back to the pan. Add salt and amchur powder. Mix gently to coat the okra with the masala.",
+        "Cook for another 3-4 minutes. Sprinkle with garam masala.",
+        "Serve hot with rotis."
+      ],
+      "notes": [
+        "Sautéing the okra separately first is the key to a non-slimy bhindi masala.",
+        "Adding amchur or a little lemon juice also helps in reducing stickiness."
+      ]
+    },
+    {
+      "name": "Biryani",
+      "folderName": "biryani",
+      "description": "A celebrated and aromatic rice dish made with long-grain basmati rice, meat (chicken or mutton) or vegetables, and a medley of spices, cooked in layers.",
+      "course": "Main Course",
+      "diet": "Non-Vegetarian",
+      "prepTime": "45 minutes (plus marination)",
+      "cookTime": "1 hour",
+      "servings": "6",
+      "ingredients": [
+        { "name": "Basmati rice, soaked", "quantity": 2, "unit": "cups" },
+        { "name": "Chicken or Mutton, pieces", "quantity": 1, "unit": "kg" },
+        { "name": "Yogurt", "quantity": 1, "unit": "cup" },
+        { "name": "Onions, thinly sliced", "quantity": 4, "unit": "large" },
+        { "name": "Ginger-garlic paste", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Tomatoes, chopped", "quantity": 2, "unit": "medium" },
+        { "name": "Green chilies", "quantity": 4, "unit": "pieces" },
+        { "name": "Biryani masala powder", "quantity": 3, "unit": "tablespoons" },
+        { "name": "Red chili powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Mint leaves, chopped", "quantity": 0.5, "unit": "cup" },
+        { "name": "Cilantro, chopped", "quantity": 0.5, "unit": "cup" },
+        { "name": "Saffron, soaked in milk", "quantity": 1, "unit": "pinch" },
+        { "name": "Ghee", "quantity": 0.25, "unit": "cup" },
+        { "name": "Oil", "quantity": null, "unit": "for frying onions" },
+        { "name": "Whole spices (bay leaf, cinnamon, cardamom, cloves)", "quantity": null, "unit": "assorted" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Marinate the chicken/mutton with yogurt, ginger-garlic paste, red chili powder, turmeric, biryani masala, half the mint and cilantro, and salt. Set aside for at least 1 hour.",
+        "Heat oil and fry the sliced onions until they are golden brown and crisp (birista). Keep half aside for layering.",
+        "In a large pot, cook the soaked basmati rice with whole spices and salt until it is 70% cooked. Drain the water and set aside.",
+        "In a heavy-bottomed pot, heat ghee. Add the remaining fried onions and marinated meat. Cook for 15-20 minutes until the meat is partially cooked and oil separates.",
+        "Begin layering. Spread half of the partially cooked rice over the meat curry. Sprinkle with fried onions, mint, and cilantro.",
+        "Add the remaining rice as the top layer. Drizzle with saffron milk and the remaining ghee.",
+        "Cover the pot with a tight-fitting lid (dum cooking). You can seal the edges with dough.",
+        "Cook on very low heat for 20-25 minutes, until the rice and meat are fully cooked and fragrant.",
+        "Gently fluff the biryani with a fork before serving. Serve hot with raita."
+      ],
+      "notes": [
+        "The quality of basmati rice and the freshness of spices are key to a good biryani.",
+        "Dum cooking (slow cooking in a sealed pot) allows the flavors to meld together beautifully."
+      ]
+    },
+    {
+      "name": "Boondi",
+      "folderName": "boondi",
+      "description": "Small, deep-fried droplets of gram flour batter. Can be made sweet (meethi boondi) by soaking in sugar syrup or savory (khara boondi) by seasoning with spices.",
+      "course": "Snack",
+      "diet": "Vegetarian",
+      "prepTime": "10 minutes",
+      "cookTime": "20 minutes",
+      "servings": "2 cups",
+      "ingredients": [
+        { "name": "Besan (gram flour)", "quantity": 1, "unit": "cup" },
+        { "name": "Water", "quantity": 0.75, "unit": "cup" },
+        { "name": "Baking soda", "quantity": 1, "unit": "pinch" },
+        { "name": "Salt", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Chaat masala", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Red chili powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Oil", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "In a bowl, whisk together besan, baking soda, and a pinch of salt.",
+        "Gradually add water to make a smooth, free-flowing batter. It should not be too thick or too thin.",
+        "Heat oil in a kadai for deep frying.",
+        "Hold a perforated ladle (boondi jhara) or a regular slotted spoon a few inches above the hot oil.",
+        "Pour a small amount of batter onto the ladle. The batter will drop through the holes into the hot oil as tiny droplets.",
+        "Fry the boondi for 2-3 minutes until they are light golden and crisp. Do not let them brown.",
+        "Remove with a slotted spoon and drain on a paper towel.",
+        "Repeat with the remaining batter.",
+        "Once all boondi is fried, transfer to a bowl. Add salt, chaat masala, and red chili powder. Toss well to coat.",
+        "Let it cool completely before storing in an airtight container. Used to make boondi raita or as a snack."
+      ],
+      "notes": [
+        "The consistency of the batter is crucial. If it's too thick, the boondi will have tails; if too thin, they will be flat.",
+        "For meethi boondi, skip the spices and soak the fried boondi in a warm one-string consistency sugar syrup."
+      ]
+    },
+    {
+      "name": "Butter Chicken",
+      "folderName": "butter_chicken",
+      "description": "A globally renowned Indian dish of tender chicken in a mildly spiced, rich, and creamy tomato gravy.",
+      "course": "Main Course",
+      "diet": "Non-Vegetarian",
+      "prepTime": "30 minutes (plus 2 hours marination)",
+      "cookTime": "35 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Boneless chicken, cubed", "quantity": 500, "unit": "grams" },
+        { "name": "Yogurt", "quantity": 0.5, "unit": "cup" },
+        { "name": "Ginger-garlic paste", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Red chili powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Garam masala", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Tomatoes, pureed", "quantity": 3, "unit": "large" },
+        { "name": "Cashews, soaked", "quantity": 15, "unit": "pieces" },
+        { "name": "Butter, unsalted", "quantity": 3, "unit": "tablespoons" },
+        { "name": "Fresh cream", "quantity": 0.25, "unit": "cup" },
+        { "name": "Kasuri Methi (dried fenugreek leaves)", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "In a bowl, mix chicken with yogurt, ginger-garlic paste, red chili powder, turmeric, and salt. Let it marinate for at least 2 hours.",
+        "Grill or pan-fry the marinated chicken until cooked through and slightly charred. Set aside.",
+        "In a pan, melt 1 tablespoon of butter. Add the tomato puree and cook for 10 minutes.",
+        "Grind the soaked cashews into a fine paste and add it to the tomato gravy. Cook for another 5 minutes.",
+        "Add the remaining garam masala, salt, and 2 tablespoons of butter. Stir well.",
+        "Add the cooked chicken pieces to the gravy. Simmer for 5-7 minutes.",
+        "Stir in the fresh cream and crushed Kasuri Methi. Cook for 1 more minute and turn off the heat.",
+        "Serve hot with naan or rice."
+      ],
+      "notes": [
+        "For a richer flavor, you can use a combination of oil and butter for the gravy.",
+        "Adding a pinch of sugar can balance the tanginess of the tomatoes."
+      ]
+    },
+    {
+      "name": "Chak Hao Kheer",
+      "folderName": "chak_hao_kheer",
+      "description": "A stunning purple-hued pudding from Manipur, made with aromatic black rice (chak-hao), milk, and sugar, known for its nutty flavor and creamy texture.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "10 minutes (plus 4-5 hours soaking)",
+      "cookTime": "45 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Manipuri Black Rice (Chak-Hao)", "quantity": 0.5, "unit": "cup" },
+        { "name": "Full-fat milk", "quantity": 1, "unit": "liter" },
+        { "name": "Sugar", "quantity": 0.75, "unit": "cup" },
+        { "name": "Cardamom pods, crushed", "quantity": 2, "unit": "pieces" },
+        { "name": "Bay leaf", "quantity": 1, "unit": "piece" },
+        { "name": "Mixed nuts (cashews, almonds), chopped", "quantity": 2, "unit": "tablespoons" }
+      ],
+      "instructions": [
+        "Wash the black rice thoroughly and soak it in water for at least 4-5 hours or overnight.",
+        "Drain the rice. In a heavy-bottomed pan, combine the soaked rice and milk. Bring to a boil.",
+        "Add the bay leaf and crushed cardamom pods.",
+        "Reduce the heat to low and let the kheer simmer, stirring frequently to prevent sticking.",
+        "Cook for about 35-45 minutes, or until the rice is completely cooked, soft, and the milk has thickened to a creamy consistency. The kheer will turn a beautiful deep purple.",
+        "Add the sugar and stir until it dissolves completely. Cook for another 5 minutes.",
+        "Remove the bay leaf. Stir in the chopped nuts.",
+        "Turn off the heat. The kheer will thicken more as it cools.",
+        "Serve warm or chilled."
+      ],
+      "notes": [
+        "Black rice takes longer to cook than regular white rice, so soaking is an important step.",
+        "The amount of sugar can be adjusted to your preference."
+      ]
+    },
+    {
+      "name": "Cham Cham",
+      "folderName": "cham_cham",
+      "description": "A popular Bengali sweet made from chenna (Indian cottage cheese), cooked in sugar syrup, and often coated with coconut or khoya.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes",
+      "cookTime": "40 minutes",
+      "servings": "12-15 pieces",
+      "ingredients": [
+        { "name": "Full-fat milk", "quantity": 1, "unit": "liter" },
+        { "name": "Lemon juice or Vinegar", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Sugar", "quantity": 2, "unit": "cups" },
+        { "name": "Water", "quantity": 5, "unit": "cups" },
+        { "name": "Rose water", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Semolina (sooji)", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Desiccated coconut or Khoya", "quantity": null, "unit": "for garnish" }
+      ],
+      "instructions": [
+        "Bring the milk to a rolling boil. Turn off the heat and add the lemon juice gradually, stirring until the milk curdles completely.",
+        "Strain the curdled milk through a muslin cloth to separate the chenna from the whey. Rinse the chenna under cold water to remove the lemon flavor.",
+        "Squeeze out all the excess water and hang the chenna for 30 minutes.",
+        "Transfer the chenna to a plate. Add semolina and knead for 8-10 minutes until it becomes smooth and non-greasy.",
+        "Divide the dough and shape it into oval or cylindrical cham chams.",
+        "In a large, wide pot, dissolve sugar in water and bring to a boil. This is the syrup.",
+        "Carefully drop the shaped chenna into the boiling syrup. Cover and cook on medium-high heat for 15-20 minutes. The cham chams will double in size.",
+        "Turn off the heat and let them cool completely in the syrup. Add rose water.",
+        "Once cooled, gently remove the cham chams from the syrup and roll them in desiccated coconut or crumbled khoya.",
+        "Chill before serving."
+      ],
+      "notes": [
+        "Kneading the chenna well is the most important step for soft, spongy cham chams.",
+        "Ensure the pot for boiling is large enough as the cham chams will expand."
+      ]
+    },
+    {
+      "name": "Chana Masala",
+      "folderName": "chana_masala",
+      "description": "A popular vegetarian dish from North India made with white chickpeas (kabuli chana) in a spicy and tangy onion-tomato gravy.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes (plus overnight soaking)",
+      "cookTime": "40 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "White chickpeas (Kabuli Chana), soaked", "quantity": 1.5, "unit": "cups" },
+        { "name": "Onions, finely chopped", "quantity": 2, "unit": "medium" },
+        { "name": "Tomato puree", "quantity": 1, "unit": "cup" },
+        { "name": "Ginger-garlic paste", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Green chili, slit", "quantity": 1, "unit": "piece" },
+        { "name": "Chana masala powder", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Red chili powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Amchur (dry mango powder)", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Cumin seeds", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Oil", "quantity": 3, "unit": "tablespoons" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" },
+        { "name": "Fresh cilantro, chopped", "quantity": 2, "unit": "tablespoons" }
+      ],
+      "instructions": [
+        "Pressure cook the soaked chickpeas with salt and a tea bag (for color) until they are soft and tender. Drain and reserve the cooking water.",
+        "Heat oil in a pan. Add cumin seeds. When they splutter, add the chopped onions and sauté until golden brown.",
+        "Add ginger-garlic paste and green chili. Cook for a minute.",
+        "Add the tomato puree and cook until the oil starts to separate from the masala.",
+        "Add all the spice powders: chana masala, turmeric, and red chili powder. Sauté for 2-3 minutes.",
+        "Add the boiled chickpeas to the pan. Mix well to coat them with the masala.",
+        "Add about 1 cup of the reserved chickpea water (or plain water), salt, and amchur powder. Bring to a boil.",
+        "Mash a few chickpeas with the back of a spoon to thicken the gravy.",
+        "Simmer for 10-15 minutes on low heat, allowing the chickpeas to absorb the flavors.",
+        "Garnish with fresh cilantro. Serve hot with bhatura, puri, or rice."
+      ],
+      "notes": [
+        "Using a tea bag while boiling the chickpeas gives the dish its characteristic dark color.",
+        "A pinch of kasuri methi at the end enhances the flavor."
+      ]
+    },
+    {
+      "name": "Chapati",
+      "folderName": "chapati",
+      "description": "A staple unleavened flatbread from the Indian subcontinent, made of whole wheat flour (atta), cooked on a tawa (flat skillet).",
+      "course": "Bread",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "15 minutes",
+      "servings": "10-12 chapatis",
+      "ingredients": [
+        { "name": "Whole wheat flour (Atta)", "quantity": 2, "unit": "cups" },
+        { "name": "Water, warm", "quantity": 1, "unit": "cup (approx.)" },
+        { "name": "Salt (optional)", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Oil or Ghee", "quantity": 1, "unit": "teaspoon (for dough)" }
+      ],
+      "instructions": [
+        "In a large bowl, mix the whole wheat flour and salt.",
+        "Add the oil/ghee and mix.",
+        "Gradually add warm water and knead to form a soft, pliable dough. Knead for 5-7 minutes until it is smooth.",
+        "Cover the dough with a damp cloth and let it rest for at least 15-20 minutes.",
+        "Divide the dough into small, equal-sized balls.",
+        "Take one ball, flatten it, and dust it with some dry flour. Roll it out into a thin circle of about 6-7 inches in diameter.",
+        "Heat a tawa or flat pan over medium-high heat.",
+        "Place the rolled chapati on the hot tawa. Cook for about 30 seconds until you see small bubbles.",
+        "Flip it over and cook the other side for about a minute until brown spots appear.",
+        "Using tongs, place the chapati directly on a high flame. It will puff up like a balloon in a few seconds.",
+        "Flip to cook the other side on the flame for a second. Remove and smear with ghee.",
+        "Serve hot."
+      ],
+      "notes": [
+        "A soft and well-rested dough is key to soft chapatis.",
+        "If you don't have a gas stove, you can make it puff up on the tawa by pressing gently with a folded cloth."
+      ]
+    },
+    {
+      "name": "Chhena Kheeri",
+      "folderName": "chhena_kheeri",
+      "description": "An Odia dessert, similar to Rasmalai, where small balls of fresh chenna are cooked in a sweetened, thickened milk.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes",
+      "cookTime": "45 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Full-fat milk", "quantity": 1.5, "unit": "liters" },
+        { "name": "Lemon juice", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Sugar", "quantity": 0.75, "unit": "cup" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Saffron strands", "quantity": 1, "unit": "pinch" },
+        { "name": "Pistachios, chopped", "quantity": 1, "unit": "tablespoon" }
+      ],
+      "instructions": [
+        "Boil 1 liter of milk. Add lemon juice to curdle it. Strain to get the chenna. Rinse and squeeze out excess water.",
+        "Knead the chenna until smooth. Make very small, marble-sized balls.",
+        "In a separate wide pan, bring the remaining 0.5 liter of milk to a boil.",
+        "Reduce the heat and let it simmer and thicken slightly for about 15-20 minutes.",
+        "Add sugar, cardamom powder, and saffron to the simmering milk. Stir until sugar dissolves.",
+        "Gently add the small chenna balls to the thickened milk.",
+        "Cook on low heat for 10-15 minutes, until the chenna balls are cooked through and have absorbed the sweet milk.",
+        "The milk will thicken further and coat the chenna balls.",
+        "Turn off the heat, garnish with chopped pistachios, and let it cool.",
+        "Serve chilled."
+      ],
+      "notes": [
+        "The chenna balls should be very small as they will swell slightly when cooked in milk.",
+        "This is a delicate dessert, so stir gently to avoid breaking the chenna balls."
+      ]
+    },
+    {
+      "name": "Chicken Razala",
+      "folderName": "chicken_razala",
+      "description": "A rich and elegant Mughlai curry from Bengal, characterized by its white, fragrant gravy made with yogurt, poppy seeds, and cashew paste.",
+      "course": "Main Course",
+      "diet": "Non-Vegetarian",
+      "prepTime": "20 minutes (plus marination)",
+      "cookTime": "40 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Chicken, with bone", "quantity": 750, "unit": "grams" },
+        { "name": "Yogurt, whisked", "quantity": 1, "unit": "cup" },
+        { "name": "Onion paste", "quantity": 0.5, "unit": "cup" },
+        { "name": "Ginger-garlic paste", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Cashew nut paste", "quantity": 0.25, "unit": "cup" },
+        { "name": "Poppy seed (khus khus) paste", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Green chilies, slit", "quantity": 4, "unit": "pieces" },
+        { "name": "Ghee", "quantity": 0.25, "unit": "cup" },
+        { "name": "Whole spices (cinnamon, cardamom, cloves, bay leaf)", "quantity": null, "unit": "assorted" },
+        { "name": "Mace (javitri) and Nutmeg (jaiphal) powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Kewra water", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" },
+        { "name": "Sugar", "quantity": 1, "unit": "teaspoon" }
+      ],
+      "instructions": [
+        "Marinate the chicken with yogurt, ginger-garlic paste, and salt for at least 1 hour.",
+        "Heat ghee in a heavy-bottomed pan. Add the whole spices and let them release their aroma.",
+        "Add the onion paste and sauté until it turns light brown and the raw smell disappears.",
+        "Add the marinated chicken and cook on high heat for 5-7 minutes, searing the pieces.",
+        "Lower the heat, add the cashew paste and poppy seed paste. Stir continuously to prevent sticking.",
+        "Add the slit green chilies and a cup of warm water. Add sugar and salt to taste.",
+        "Cover and cook on low heat for 20-25 minutes, or until the chicken is tender and the gravy has thickened.",
+        "Sprinkle with mace and nutmeg powder. Stir in the kewra water.",
+        "Turn off the heat and let it rest for a few minutes before serving.",
+        "Serve hot with naan or pulao."
+      ],
+      "notes": [
+        "The gravy should be white or off-white, so avoid browning the onions too much.",
+        "Using ghee gives the dish its authentic rich flavor."
+      ]
+    },
+    {
+      "name": "Chicken Tikka",
+      "folderName": "chicken_tikka",
+      "description": "A popular appetizer where boneless chicken pieces are marinated in yogurt and spices, then threaded onto skewers and cooked in a tandoor or oven.",
+      "course": "Appetizer",
+      "diet": "Non-Vegetarian",
+      "prepTime": "20 minutes (plus 4-6 hours marination)",
+      "cookTime": "20 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Boneless chicken, 1.5-inch cubes", "quantity": 500, "unit": "grams" },
+        { "name": "Thick yogurt (hung curd)", "quantity": 1, "unit": "cup" },
+        { "name": "Ginger-garlic paste", "quantity": 1.5, "unit": "tablespoons" },
+        { "name": "Lemon juice", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Kashmiri red chili powder", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Garam masala", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Coriander powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Cumin powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Chaat masala", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Kasuri methi, crushed", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Besan (gram flour), roasted", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Mustard oil", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "In a large bowl, whisk together the hung curd, ginger-garlic paste, lemon juice, mustard oil, and all the powdered spices.",
+        "Add the roasted besan (this helps the marinade stick). Mix well to form a thick marinade.",
+        "Add the chicken cubes and coat them thoroughly with the marinade. Cover and refrigerate for at least 4-6 hours, or preferably overnight.",
+        "Preheat your oven to 220°C (430°F).",
+        "Thread the marinated chicken pieces onto metal or soaked wooden skewers.",
+        "Place the skewers on a baking tray lined with foil. Bake for 15-20 minutes, turning halfway through, until the chicken is cooked and slightly charred at the edges.",
+        "You can also grill them on a barbecue or pan-fry them.",
+        "Sprinkle with chaat masala and serve hot with mint chutney and onion rings."
+      ],
+      "notes": [
+        "Using hung curd (thick yogurt with whey drained) is essential for a thick marinade that doesn't become watery.",
+        "Roasting the besan removes its raw taste and acts as a great binding agent."
+      ]
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "folderName": "chicken_tikka_masala",
+      "description": "A world-famous dish of grilled chicken tikka pieces simmered in a rich, creamy, and spiced tomato-based gravy.",
+      "course": "Main Course",
+      "diet": "Non-Vegetarian",
+      "prepTime": "30 minutes (plus marination)",
+      "cookTime": "30 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Chicken Tikka (prepared)", "quantity": 500, "unit": "grams" },
+        { "name": "Onions, finely chopped", "quantity": 2, "unit": "medium" },
+        { "name": "Tomato puree", "quantity": 1.5, "unit": "cups" },
+        { "name": "Ginger-garlic paste", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Cashew paste", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Red chili powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Coriander powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Garam masala", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Fresh cream", "quantity": 0.25, "unit": "cup" },
+        { "name": "Kasuri methi, crushed", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Butter or Oil", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "First, prepare the Chicken Tikka as per the recipe (grill or bake marinated chicken) and set aside.",
+        "Heat butter or oil in a pan. Add the chopped onions and sauté until golden brown.",
+        "Add ginger-garlic paste and cook for a minute.",
+        "Pour in the tomato puree and cook for 10-12 minutes until it thickens and oil starts to separate.",
+        "Add the cashew paste and cook for another 2-3 minutes, stirring continuously.",
+        "Add all the spice powders: red chili, turmeric, and coriander powder. Sauté for a minute.",
+        "Add about a cup of water and salt. Bring the gravy to a simmer.",
+        "Add the prepared chicken tikka pieces to the gravy. Mix well and simmer for 5-7 minutes.",
+        "Stir in the fresh cream, garam masala, and crushed kasuri methi. Cook for 2 more minutes.",
+        "Serve hot, garnished with a swirl of cream and cilantro. Pairs perfectly with naan."
+      ],
+      "notes": [
+        "This dish is essentially Chicken Tikka served in a gravy. You can prepare the tikka ahead of time.",
+        "The creaminess comes from both the cashew paste and the fresh cream."
+      ]
+    },
+    {
+      "name": "Chikki",
+      "folderName": "chikki",
+      "description": "A traditional Indian brittle candy made from jaggery and nuts, most commonly peanuts.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "10 minutes",
+      "cookTime": "15 minutes",
+      "servings": "15-20 pieces",
+      "ingredients": [
+        { "name": "Peanuts, raw", "quantity": 1, "unit": "cup" },
+        { "name": "Jaggery, chopped or grated", "quantity": 1, "unit": "cup" },
+        { "name": "Ghee", "quantity": 1, "unit": "teaspoon" }
+      ],
+      "instructions": [
+        "Dry roast the peanuts in a pan on low heat until they are crunchy and the skins start to separate. Let them cool.",
+        "Once cooled, rub the peanuts between your palms to remove the skins. Coarsely crush them and set aside.",
+        "Grease a flat surface (like the back of a steel plate or a marble board) and a rolling pin with ghee.",
+        "In a heavy-bottomed pan, add the ghee and the chopped jaggery. Cook on low heat, stirring continuously, until the jaggery melts completely.",
+        "Continue to cook the syrup until it reaches the hard ball stage. To test, drop a little syrup into a bowl of cold water; it should immediately harden and become brittle (you should hear a 'snap' when you break it).",
+        "Turn off the heat. Immediately add the crushed peanuts and mix quickly to combine everything.",
+        "Pour the mixture onto the greased surface. Be very careful as it will be extremely hot.",
+        "Quickly spread it out into a thin layer using the greased rolling pin.",
+        "While it is still warm, use a knife to make cuts or marks for the pieces.",
+        "Let it cool completely for about 30 minutes. Once fully cooled and hardened, break it along the marks.",
+        "Store in an airtight container."
+      ],
+      "notes": [
+        "Getting the jaggery syrup to the correct hard-crack consistency is the most critical step.",
+        "You must work very quickly once the peanuts are added, as the mixture hardens fast."
+      ]
+    },
+    {
+      "name": "Chole Bhature",
+      "folderName": "chole_bhature",
+      "description": "A classic and indulgent dish from Punjab, featuring spicy chickpea curry (Chole) served with fluffy, deep-fried bread (Bhature).",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes (plus soaking & resting)",
+      "cookTime": "1 hour",
+      "servings": "4",
+      "ingredients": [
+        { "name": "For Chole", "quantity": null, "unit": null },
+        { "name": "White chickpeas (Kabuli Chana), soaked", "quantity": 1.5, "unit": "cups" },
+        { "name": "Onion-tomato masala paste", "quantity": 2, "unit": "cups" },
+        { "name": "Chana masala powder", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Tea bags", "quantity": 2, "unit": "pieces" },
+        { "name": "For Bhature", "quantity": null, "unit": null },
+        { "name": "All-purpose flour (Maida)", "quantity": 2, "unit": "cups" },
+        { "name": "Yogurt", "quantity": 0.5, "unit": "cup" },
+        { "name": "Baking soda", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Oil", "quantity": null, "unit": "for frying" }
+      ],
+      "instructions": [
+        "For Chole: Pressure cook soaked chickpeas with tea bags and salt until tender. Discard tea bags.",
+        "In a pan, prepare a masala with sautéed onions, ginger-garlic paste, and tomato puree. Add chana masala powder, chili powder, and turmeric.",
+        "Add the boiled chickpeas along with their water to the masala. Simmer for 15-20 minutes until the gravy thickens. Mash a few chickpeas to thicken it further.",
+        "For Bhature: Mix maida, yogurt, baking soda, a little sugar, and salt. Knead into a soft dough using warm water. Rest for 2-4 hours.",
+        "Divide the dough, roll into ovals, and deep fry in very hot oil until they puff up and turn golden brown.",
+        "Serve the hot bhaturas immediately with the prepared chole, sliced onions, and a lemon wedge."
+      ],
+      "notes": [
+        "This is a combination dish. Please refer to the individual recipes for Chana Masala and Bhatura for detailed steps.",
+        "The pairing is iconic and a favorite weekend brunch in North India."
+      ]
+    },
+    {
+      "name": "Daal Baati Churma",
+      "folderName": "daal_baati_churma",
+      "description": "A quintessential Rajasthani thali, featuring spicy lentil curry (Daal), hard wheat rolls (Baati), and a sweet powdered wheat dessert (Churma).",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "45 minutes",
+      "cookTime": "1 hour 30 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "For Baati: Whole wheat flour", "quantity": 2, "unit": "cups" },
+        { "name": "For Daal: Mixed lentils (chana, toor, moong)", "quantity": 1, "unit": "cup" },
+        { "name": "For Churma: Coarse wheat flour", "quantity": 1, "unit": "cup" },
+        { "name": "Ghee", "quantity": 1.5, "unit": "cups" },
+        { "name": "Assorted spices (cumin, turmeric, chili)", "quantity": null, "unit": "as needed" },
+        { "name": "Jaggery or powdered sugar (for churma)", "quantity": 0.5, "unit": "cup" }
+      ],
+      "instructions": [
+        "For Baati: Knead a firm dough with wheat flour, semolina, ghee, salt, and carom seeds. Form into round balls. Bake in an oven or tandoor until hard and golden brown.",
+        "For Daal: Pressure cook the mixed lentils with turmeric and salt. Prepare a tempering (tadka) with ghee, cumin seeds, asafoetida, onions, ginger, garlic, tomatoes, and spices. Pour over the cooked daal.",
+        "For Churma: Make a stiff dough with coarse wheat flour and ghee. Make thick discs and deep fry them until golden. Cool and grind into a coarse powder. Mix with powdered sugar/jaggery, cardamom, nuts, and more ghee.",
+        "To serve: Break the hot baatis, dip them generously in melted ghee, and serve alongside the daal and churma."
+      ],
+      "notes": [
+        "This is a complex, three-part dish. Ghee is the hero ingredient and is used lavishly in all three components.",
+        "The baatis should be hard on the outside and soft on the inside."
+      ]
+
+    },
+    {
+      "name": "Daal Puri",
+      "folderName": "daal_puri",
+      "description": "A delicious Indian fried bread where the puri is stuffed with a savory, spiced filling of cooked and ground lentils (chana dal).",
+      "course": "Bread",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes (plus soaking)",
+      "cookTime": "30 minutes",
+      "servings": "12-15 puris",
+      "ingredients": [
+        { "name": "Whole wheat flour (Atta)", "quantity": 2, "unit": "cups" },
+        { "name": "Chana dal (split chickpeas), soaked", "quantity": 1, "unit": "cup" },
+        { "name": "Asafoetida (hing)", "quantity": 0.25, "unit": "teaspoon" },
+        { "name": "Fennel powder (saunf)", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Red chili powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Garam masala", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" },
+        { "name": "Oil", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "Knead a soft dough with wheat flour, salt, and water. Let it rest.",
+        "Pressure cook the soaked chana dal with a little salt and turmeric until soft but not mushy. Drain all water.",
+        "Grind the cooked dal into a coarse, dry mixture. Do not add water.",
+        "In a pan, lightly roast the dal mixture with hing, fennel powder, chili powder, and garam masala for a few minutes to dry out any moisture. Let it cool.",
+        "Take a small ball of dough, flatten it, and place a spoonful of the dal filling in the center.",
+        "Bring the edges together and seal it tightly. Gently roll it out into a small puri.",
+        "Heat oil in a kadai. Deep fry the puris on medium-high heat until they puff up and turn golden brown on both sides.",
+        "Serve hot with aloo curry or kheer."
+      ],
+      "notes": [
+        "The dal filling must be completely dry to prevent the puris from breaking while rolling.",
+        "Seal the puris carefully so the filling does not come out during frying."
+      ]
+    },
+    {
+      "name": "Dal Makhani",
+      "folderName": "dal_makhani",
+      "description": "A rich, creamy, and popular lentil dish from Punjab, made with whole black lentils (urad dal) and kidney beans (rajma), slow-cooked with butter and cream.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes (plus overnight soaking)",
+      "cookTime": "1.5 hours",
+      "servings": "6",
+      "ingredients": [
+        { "name": "Whole black lentils (Sabut Urad Dal)", "quantity": 1, "unit": "cup" },
+        { "name": "Kidney beans (Rajma)", "quantity": 0.25, "unit": "cup" },
+        { "name": "Onion, finely chopped", "quantity": 1, "unit": "large" },
+        { "name": "Tomato puree", "quantity": 1.5, "unit": "cups" },
+        { "name": "Ginger-garlic paste", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Butter", "quantity": 0.25, "unit": "cup" },
+        { "name": "Fresh cream", "quantity": 0.25, "unit": "cup" },
+        { "name": "Kashmiri red chili powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Garam masala", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Kasuri methi, crushed", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Soak the urad dal and rajma overnight. Drain and pressure cook with plenty of water and salt until very soft and mushy (about 8-10 whistles).",
+        "In a separate pan, melt half the butter. Add the chopped onions and sauté until golden.",
+        "Add ginger-garlic paste and cook for a minute.",
+        "Add the tomato puree and Kashmiri red chili powder. Cook until the masala thickens and oil separates.",
+        "Pour this tempering into the cooked dal. Mix well.",
+        "Mash the dal a bit with the back of a ladle to make it creamier. Add water if needed to adjust consistency.",
+        "Simmer on very low heat for at least 30-40 minutes, stirring occasionally. The longer it simmers, the better the flavor.",
+        "Add the remaining butter, fresh cream, garam masala, and crushed kasuri methi. Stir and cook for 5 more minutes.",
+        "Serve hot, garnished with a swirl of cream and a knob of butter."
+      ],
+      "notes": [
+        "Slow cooking is the secret to an authentic Dal Makhani. Do not rush this step.",
+        "The dish gets its richness from butter and cream, so don't be shy with them."
+      ]
+    },
+    {
+      "name": "Dal Tadka",
+      "folderName": "dal_tadka",
+      "description": "A comforting and popular Indian lentil dish made with yellow lentils (toor dal or arhar dal), tempered with ghee and spices.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "10 minutes (plus soaking)",
+      "cookTime": "25 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Toor dal (Arhar dal), soaked", "quantity": 1, "unit": "cup" },
+        { "name": "Onion, finely chopped", "quantity": 1, "unit": "medium" },
+        { "name": "Tomato, finely chopped", "quantity": 1, "unit": "medium" },
+        { "name": "Ginger, grated", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Garlic, chopped", "quantity": 2, "unit": "cloves" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Ghee", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Cumin seeds", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Asafoetida (hing)", "quantity": 0.25, "unit": "teaspoon" },
+        { "name": "Dry red chilies", "quantity": 2, "unit": "pieces" },
+        { "name": "Red chili powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Fresh cilantro, chopped", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Pressure cook the soaked toor dal with turmeric and salt until soft (about 3-4 whistles). Whisk lightly to get a smooth consistency.",
+        "Prepare the tadka (tempering). Heat ghee in a small pan.",
+        "Add cumin seeds. When they splutter, add asafoetida, dry red chilies, and chopped garlic. Sauté until the garlic is golden.",
+        "Add the chopped onions and ginger. Sauté until onions are translucent.",
+        "Add the chopped tomatoes and cook until they are soft.",
+        "Add the red chili powder and stir.",
+        "Pour this hot tadka over the cooked dal.",
+        "Garnish with fresh cilantro and serve hot with rice (Dal Chawal) or roti."
+      ],
+      "notes": [
+        "This recipe often uses a double tadka, one with onions and tomatoes mixed in, and a final one with garlic and red chilies poured on top just before serving.",
+        "The consistency of the dal can be adjusted with water."
+      ]
+    },
+    {
+      "name": "Dharwad Pedha",
+      "folderName": "dharwad_pedha",
+      "description": "A famous sweet from Dharwad, Karnataka, made by simmering milk for a long time, which caramelizes to a brown color, and then mixed with sugar.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "5 minutes",
+      "cookTime": "1 hour 30 minutes",
+      "servings": "20-25 pedhas",
+      "ingredients": [
+        { "name": "Full-fat milk", "quantity": 2, "unit": "liters" },
+        { "name": "Sugar", "quantity": 1, "unit": "cup" },
+        { "name": "Ghee", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Powdered sugar", "quantity": null, "unit": "for coating" }
+      ],
+      "instructions": [
+        "In a heavy, non-stick pan, bring the milk to a boil.",
+        "Reduce the heat and simmer, stirring continuously, until the milk reduces to a thick, solid mass (khoya). This will take a long time (over an hour).",
+        "Continue to cook the khoya on low heat, stirring constantly. It will start to turn light brown.",
+        "Add ghee and sugar. Keep stirring. The mixture will loosen up and then start to thicken again as it caramelizes.",
+        "Cook until the mixture turns a dark brown color and leaves the sides of the pan.",
+        "Add cardamom powder and mix well. Transfer to a plate and let it cool completely.",
+        "Once cooled, knead the mixture for a minute and then shape it into small logs or round pedhas.",
+        "Roll the pedhas in powdered sugar.",
+        "Let them air dry for a couple of hours before storing."
+      ],
+      "notes": [
+        "This recipe requires a lot of patience and continuous stirring to prevent burning.",
+        "The unique brown color comes from the caramelization of milk solids and sugar, not from added color."
+      ]
+    },
+    {
+      "name": "Dhokla",
+      "folderName": "dhokla",
+      "description": "A savory, spongy, and light steamed cake from Gujarat, made from a fermented batter of gram flour (besan), and seasoned with a mustard seed tempering.",
+      "course": "Snack",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Besan (gram flour)", "quantity": 1.5, "unit": "cups" },
+        { "name": "Semolina (Sooji)", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Yogurt, sour", "quantity": 0.5, "unit": "cup" },
+        { "name": "Ginger-green chili paste", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Turmeric powder", "quantity": 0.25, "unit": "teaspoon" },
+        { "name": "Eno fruit salt or Baking soda", "quantity": 1, "unit": "teaspoon" },
+        { "name": "For Tempering: Oil, Mustard seeds, Green chilies, Curry leaves, Sugar, Water, Lemon juice", "quantity": null, "unit": "as needed" },
+        { "name": "Fresh cilantro and grated coconut", "quantity": null, "unit": "for garnish" }
+      ],
+      "instructions": [
+        "In a bowl, mix besan, sooji, yogurt, ginger-chili paste, turmeric, salt, and water to make a smooth, thick batter. Let it rest for 15-20 minutes.",
+        "Prepare a steamer. Grease a steaming plate or tin.",
+        "Just before steaming, add Eno fruit salt to the batter and a teaspoon of water over it. Mix gently and quickly until the batter is frothy and light.",
+        "Pour the batter immediately into the greased tin and steam on high heat for 15-20 minutes, or until a toothpick inserted comes out clean.",
+        "Let the dhokla cool slightly, then cut it into squares.",
+        "For the tempering: Heat oil, add mustard seeds, green chilies, and curry leaves. When they splutter, add a cup of water, sugar, and lemon juice. Bring to a boil.",
+        "Pour this hot tempering evenly over the dhokla pieces.",
+        "Garnish with chopped cilantro and grated coconut. Serve."
+      ],
+      "notes": [
+        "Add Eno or baking soda only at the very end, just before steaming, for maximum sponginess.",
+        "The tempering not only adds flavor but also moisture, making the dhokla soft."
+      ]
+    },
+    {
+      "name": "Doodhpak",
+      "folderName": "doodhpak",
+      "description": "A traditional Gujarati dessert, which is a creamy rice pudding made by slow-cooking rice in milk until it's thick, flavored with saffron, cardamom, and nuts.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "10 minutes",
+      "cookTime": "45 minutes",
+      "servings": "4-6",
+      "ingredients": [
+        { "name": "Full-fat milk", "quantity": 1, "unit": "liter" },
+        { "name": "Basmati rice, washed and soaked", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Sugar", "quantity": 0.5, "unit": "cup" },
+        { "name": "Saffron strands", "quantity": 1, "unit": "pinch" },
+        { "name": "Cardamom and Nutmeg powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Almonds and Pistachios, blanched and slivered", "quantity": 3, "unit": "tablespoons" },
+        { "name": "Charoli (chironji)", "quantity": 1, "unit": "tablespoon" }
+      ],
+      "instructions": [
+        "In a heavy-bottomed pan, bring the milk to a boil.",
+        "Drain the soaked rice and add it to the boiling milk.",
+        "Reduce the heat and simmer, stirring frequently, for about 30-40 minutes, until the rice is completely cooked and the milk has thickened.",
+        "Add the sugar and saffron strands. Stir well until the sugar dissolves.",
+        "Continue to cook for another 5-10 minutes until the doodhpak reaches a creamy consistency (similar to a thin custard).",
+        "Turn off the heat. Add the cardamom-nutmeg powder and most of the slivered nuts, reserving some for garnish.",
+        "Let it cool. It will thicken further upon cooling.",
+        "Serve chilled, garnished with the remaining nuts."
+      ],
+      "notes": [
+        "The key is to use very little rice, so the final dish is more of a thickened milk pudding rather than a dense kheer.",
+        "It's traditionally served with pooris."
+      ]
+    },
+    {
+      "name": "Dosa",
+      "folderName": "dosa",
+      "description": "A thin, crispy, savory crepe from South India, made from a fermented batter of rice and lentils.",
+      "course": "Breakfast / Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes (plus 8-12 hours soaking & fermentation)",
+      "cookTime": "20 minutes",
+      "servings": "15-20 dosas",
+      "ingredients": [
+        { "name": "Idli Rice or Parboiled Rice", "quantity": 2, "unit": "cups" },
+        { "name": "Urad dal (split black lentils)", "quantity": 0.5, "unit": "cup" },
+        { "name": "Chana dal (split chickpeas)", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Fenugreek seeds (Methi)", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" },
+        { "name": "Oil or Ghee", "quantity": null, "unit": "for cooking" }
+      ],
+      "instructions": [
+        "Wash and soak rice and lentils (urad dal, chana dal, fenugreek seeds) separately in water for at least 4-6 hours.",
+        "Drain the water. Grind the lentils first to a very smooth, fluffy paste, using minimal water. Then grind the rice to a slightly coarse paste.",
+        "Combine both pastes in a large bowl, add salt, and mix well with your hands. The batter should have a pouring consistency.",
+        "Cover the bowl and keep it in a warm place to ferment for 8-12 hours, or until it has risen and smells slightly sour.",
+        "Heat a non-stick or cast-iron tawa (griddle) on medium-high heat. Smear a little oil.",
+        "Pour a ladleful of batter in the center and quickly spread it outwards in a circular motion to form a thin crepe.",
+        "Drizzle a teaspoon of oil or ghee around the edges and on top.",
+        "Cook until the bottom is golden brown and crispy. Fold and serve immediately.",
+        "Serve hot with sambar and coconut chutney."
+      ],
+      "notes": [
+        "Fermentation is key to a good dosa. The batter should be light and airy.",
+        "For a classic Masala Dosa, add a spoonful of spiced potato filling before folding."
+      ]
+    },
+    {
+      "name": "Double Ka Meetha",
+      "folderName": "double_ka_meetha",
+      "description": "A decadent Hyderabadi bread pudding made with fried bread slices soaked in a rich, sweetened milk mixture, flavored with saffron and cardamom.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes",
+      "servings": "6",
+      "ingredients": [
+        { "name": "White bread slices, crusts removed", "quantity": 8, "unit": "pieces" },
+        { "name": "Ghee or Oil", "quantity": null, "unit": "for deep frying" },
+        { "name": "Milk, full-fat", "quantity": 3, "unit": "cups" },
+        { "name": "Sugar", "quantity": 1, "unit": "cup" },
+        { "name": "Khoya (mawa), crumbled", "quantity": 0.5, "unit": "cup" },
+        { "name": "Saffron strands, soaked in milk", "quantity": 1, "unit": "pinch" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Mixed nuts (almonds, pistachios, cashews), slivered", "quantity": 0.25, "unit": "cup" }
+      ],
+      "instructions": [
+        "Cut the bread slices diagonally into triangles.",
+        "Heat ghee or oil in a pan and deep fry the bread slices until they are crisp and golden brown on both sides. Drain and set aside.",
+        "In a separate pan, bring the milk to a boil. Let it simmer and reduce to about two-thirds its original volume.",
+        "Add sugar, crumbled khoya, saffron milk, and cardamom powder to the reduced milk. Stir until the sugar and khoya dissolve. This is the rabri.",
+        "Arrange the fried bread slices in a single layer in a wide, shallow dish.",
+        "Pour the warm rabri evenly over the bread slices, ensuring they are well soaked.",
+        "Garnish generously with slivered nuts.",
+        "Let it sit for at least 30 minutes for the bread to absorb the liquid.",
+        "Serve warm or chilled."
+      ],
+      "notes": [
+        "The bread should be fried until very crisp so it doesn't become mushy after soaking.",
+        "This dessert is very rich and sweet, perfect for special occasions."
+      ]
+    },
+    {
+      "name": "Dum Aloo",
+      "folderName": "dum_aloo",
+      "description": "A delicious and rich curry from Kashmiri cuisine where small potatoes are deep-fried and then slow-cooked in a spicy gravy.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "25 minutes",
+      "cookTime": "45 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Baby potatoes", "quantity": 500, "unit": "grams" },
+        { "name": "Yogurt, whisked", "quantity": 1, "unit": "cup" },
+        { "name": "Onion paste", "quantity": 0.5, "unit": "cup" },
+        { "name": "Tomato puree", "quantity": 0.5, "unit": "cup" },
+        { "name": "Ginger-garlic paste", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Cashew paste", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Kashmiri red chili powder", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Fennel powder (saunf)", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Dry ginger powder (sonth)", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Garam masala", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Oil", "quantity": null, "unit": "for frying" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Boil the baby potatoes until they are 80% cooked. Peel and prick them all over with a fork.",
+        "Heat oil and deep fry the potatoes on medium heat until they are golden brown and crisp on the outside. Set aside.",
+        "In a pan, heat 2-3 tbsp of oil. Add onion paste and sauté until golden.",
+        "Add ginger-garlic paste and cook for a minute. Add tomato puree and cook until oil separates.",
+        "Reduce the heat and add the whisked yogurt, stirring continuously. Add all the spice powders (chili, fennel, ginger, garam masala).",
+        "Add cashew paste and about 1.5 cups of water. Add salt. Bring the gravy to a boil.",
+        "Add the fried potatoes to the gravy. Cover and 'dum' cook (slow cook) on very low heat for 15-20 minutes, allowing the potatoes to absorb the gravy.",
+        "Garnish with cilantro and serve hot."
+      ],
+      "notes": [
+        "Pricking the potatoes helps them absorb the flavors of the gravy.",
+        "The traditional Kashmiri version often omits onions, garlic, and tomatoes, relying on yogurt and spices like fennel and ginger powder for the gravy."
+      ]
+    },
+    {
+      "name": "Gajar Ka Halwa",
+      "folderName": "gajar_ka_halwa",
+      "description": "A classic, rich, and decadent Indian pudding made from grated carrots, milk, sugar, and ghee, especially popular during winter.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes",
+      "cookTime": "1 hour",
+      "servings": "6",
+      "ingredients": [
+        { "name": "Carrots, grated", "quantity": 1, "unit": "kg" },
+        { "name": "Full-fat milk", "quantity": 1, "unit": "liter" },
+        { "name": "Sugar", "quantity": 1, "unit": "cup" },
+        { "name": "Ghee", "quantity": 4, "unit": "tablespoons" },
+        { "name": "Khoya (mawa), crumbled (optional)", "quantity": 0.5, "unit": "cup" },
+        { "name": "Cardamom powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Mixed nuts (almonds, cashews, pistachios), chopped", "quantity": 0.25, "unit": "cup" }
+      ],
+      "instructions": [
+        "In a heavy-bottomed pan or kadai, combine the grated carrots and milk. Bring to a boil.",
+        "Cook on medium heat, stirring occasionally, until all the milk has been absorbed by the carrots. This will take about 30-40 minutes.",
+        "Add the ghee and sauté the carrot mixture for 5-7 minutes until it becomes fragrant.",
+        "Add the sugar and mix well. The sugar will release moisture, making the mixture liquidy again. Continue to cook, stirring, until the moisture evaporates.",
+        "If using khoya, add it now and cook for another 5 minutes until it is well combined.",
+        "Add the cardamom powder and most of the chopped nuts. Mix well.",
+        "Cook for another 2 minutes until the halwa thickens and starts to leave the sides of the pan.",
+        "Serve hot, garnished with the remaining nuts."
+      ],
+      "notes": [
+        "Using red, juicy winter carrots gives the best color and flavor.",
+        "You can also make this with condensed milk for a quicker version."
+      ]
+    },
+    {
+      "name": "Gavvalu",
+      "folderName": "gavvalu",
+      "description": "A traditional shell-shaped sweet from Andhra Pradesh, made from a simple dough of flour and water, deep-fried and then coated in jaggery syrup.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes",
+      "cookTime": "30 minutes",
+      "servings": "4 cups",
+      "ingredients": [
+        { "name": "All-purpose flour (Maida)", "quantity": 2, "unit": "cups" },
+        { "name": "Jaggery, powdered", "quantity": 1.5, "unit": "cups" },
+        { "name": "Ghee, melted", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Water", "quantity": null, "unit": "as needed" },
+        { "name": "Oil", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "In a bowl, mix the flour with melted ghee. Gradually add water to knead a firm, stiff dough.",
+        "Cover and let the dough rest for 20 minutes.",
+        "Take a small portion of the dough and roll it into a tiny ball.",
+        "Use a special gavvalu maker or the back of a fork. Press the dough ball onto the surface and roll it downwards to create a shell shape with ridges.",
+        "Prepare all the shells and keep them on a plate.",
+        "Heat oil in a kadai and deep fry the shells on medium heat until they are golden brown and crisp.",
+        "In a separate pan, melt the jaggery with about half a cup of water. Cook the syrup until it reaches a soft ball consistency.",
+        "Add the fried shells to the hot jaggery syrup and mix well until all the shells are coated.",
+        "Transfer to a plate and let them cool. They will separate as they cool.",
+        "Store in an airtight container."
+      ],
+      "notes": [
+        "The dough must be stiff to ensure the gavvalu are crispy.",
+        "Work quickly when coating with syrup as it hardens fast."
+      ]
+    },
+    {
+      "name": "Ghevar",
+      "folderName": "ghevar",
+      "description": "A traditional Rajasthani disc-shaped honeycomb-like sweet, made by deep-frying a flour batter and soaking it in sugar syrup, often topped with rabri.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes",
+      "cookTime": "1 hour",
+      "servings": "4-5 ghevars",
+      "ingredients": [
+        { "name": "All-purpose flour (Maida)", "quantity": 2, "unit": "cups" },
+        { "name": "Ghee, solidified", "quantity": 0.5, "unit": "cup" },
+        { "name": "Milk, cold", "quantity": 0.5, "unit": "cup" },
+        { "name": "Ice cold water", "quantity": 4, "unit": "cups" },
+        { "name": "Lemon juice", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Ghee", "quantity": null, "unit": "for deep frying" },
+        { "name": "Sugar syrup (Chashni)", "quantity": 2, "unit": "cups" },
+        { "name": "Rabri and chopped nuts", "quantity": null, "unit": "for topping" }
+      ],
+      "instructions": [
+        "In a large bowl, rub the solidified ghee with ice cubes until it becomes creamy and white. Remove any remaining ice.",
+        "Gradually add the flour and cold milk, whisking to form a smooth paste.",
+        "Slowly add the ice-cold water and lemon juice to create a very thin, lump-free batter.",
+        "Heat ghee for deep frying in a tall, cylindrical pot, filling it halfway.",
+        "Once the ghee is very hot, pour a ladleful of batter from a height in a thin stream into the center of the pot. The batter will sizzle and form a lace-like structure.",
+        "Let the sizzle subside, then pour another ladleful in the center. Repeat 5-6 times, creating a hole in the center with a skewer.",
+        "Fry until the ghevar is golden and crisp. Carefully lift it out and drain the excess ghee.",
+        "Dip the cooled ghevar in warm sugar syrup for a few seconds.",
+        "Top with rabri and chopped nuts before serving."
+      ],
+      "notes": [
+        "The batter must be extremely cold, and the ghee must be very hot to create the porous texture.",
+        "Using a tall pot is important as the batter sizzles up violently."
+      ]
+    },
+    {
+      "name": "Gulab Jamun",
+      "folderName": "gulab_jamun",
+      "description": "Soft, melt-in-your-mouth fried milk-solid balls soaked in a sweet, fragrant sugar syrup.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "servings": "15-20 jamuns",
+      "ingredients": [
+        { "name": "Milk powder", "quantity": 1, "unit": "cup" },
+        { "name": "All-purpose flour (Maida)", "quantity": 3, "unit": "tablespoons" },
+        { "name": "Baking soda", "quantity": 0.25, "unit": "teaspoon" },
+        { "name": "Ghee, melted", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Milk, warm", "quantity": 4, "unit": "tablespoons" },
+        { "name": "Sugar", "quantity": 2, "unit": "cups" },
+        { "name": "Water", "quantity": 2, "unit": "cups" },
+        { "name": "Cardamom pods, crushed", "quantity": 4, "unit": "pieces" },
+        { "name": "Rose water", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Ghee or oil", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "For the sugar syrup: In a pot, combine sugar, water, and cardamom pods. Bring to a boil and simmer for 5-7 minutes until the syrup is slightly sticky. Turn off heat and add rose water.",
+        "For the jamuns: In a bowl, mix milk powder, flour, and baking soda. Add melted ghee and mix. Gradually add warm milk to form a soft, smooth dough. Do not over-knead.",
+        "Divide the dough into small, crack-free balls.",
+        "Heat ghee or oil in a pan on low heat. Add the balls and fry gently, stirring constantly, until they are deep golden brown.",
+        "Remove the fried jamuns and drain excess oil. Immediately drop them into the warm sugar syrup.",
+        "Let them soak for at least 2-3 hours before serving.",
+        "Serve warm or at room temperature."
+      ],
+      "notes": [
+        "Ensure the dough is smooth and the balls are crack-free to prevent them from breaking while frying.",
+        "Fry the jamuns on low heat to ensure they cook evenly from the inside."
+      ]
+    },
+    {
+      "name": "Idli",
+      "folderName": "idli",
+      "description": "A soft, fluffy, and savory steamed rice cake, originating from South India, made from a fermented batter of rice and lentils.",
+      "course": "Breakfast",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes (plus 8-12 hours soaking & fermentation)",
+      "cookTime": "15 minutes",
+      "servings": "20-24 idlis",
+      "ingredients": [
+        { "name": "Idli Rice or Parboiled Rice", "quantity": 2, "unit": "cups" },
+        { "name": "Urad dal (whole, skinless)", "quantity": 1, "unit": "cup" },
+        { "name": "Poha (flattened rice), thick variety", "quantity": 0.25, "unit": "cup" },
+        { "name": "Fenugreek seeds (Methi)", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Wash and soak the rice in one bowl. In another bowl, wash and soak the urad dal and fenugreek seeds. Soak for at least 4-6 hours.",
+        "Soak the poha in water for 15 minutes just before grinding.",
+        "First, grind the urad dal with minimal water to a very smooth, fluffy, and airy batter. Remove to a large bowl.",
+        "Next, grind the soaked rice and poha together to a fine, slightly coarse consistency. Add to the urad dal batter.",
+        "Add salt and mix everything well with your hands. The batter should be thick but pourable.",
+        "Cover and let the batter ferment in a warm place for 8-12 hours, or until it has doubled in volume.",
+        "Grease the idli mold plates. Fill each mold with the fermented batter.",
+        "Steam in an idli steamer or pressure cooker (without the whistle) for 10-12 minutes on high heat.",
+        "Let it rest for a few minutes before demolding the idlis.",
+        "Serve hot with sambar and coconut chutney."
+      ],
+      "notes": [
+        "A well-fermented batter is the key to soft and spongy idlis.",
+        "Do not overfill the molds as the idlis will expand while steaming."
+      ]
+    },
+    {
+      "name": "Imarti",
+      "folderName": "imarti",
+      "description": "A flower-shaped Indian sweet, similar to jalebi but made from urad dal batter, deep-fried and then soaked in sugar syrup.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes (plus 8 hours soaking)",
+      "cookTime": "30 minutes",
+      "servings": "15-20 imartis",
+      "ingredients": [
+        { "name": "Urad dal (whole, skinless)", "quantity": 1, "unit": "cup" },
+        { "name": "Rice flour", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Orange food color", "quantity": 1, "unit": "pinch" },
+        { "name": "Sugar", "quantity": 2, "unit": "cups" },
+        { "name": "Water", "quantity": 1, "unit": "cup" },
+        { "name": "Cardamom powder and Saffron", "quantity": null, "unit": "for syrup" },
+        { "name": "Ghee or Oil", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "Soak the urad dal for at least 8 hours or overnight. Drain.",
+        "Grind the dal into a very smooth and fluffy paste, using very little water.",
+        "Transfer the batter to a bowl. Add rice flour and food color. Whisk vigorously for 5-7 minutes to aerate the batter.",
+        "Prepare a one-string consistency sugar syrup with sugar, water, cardamom, and saffron.",
+        "Fill the batter in a piping bag or a squeeze bottle with a small nozzle.",
+        "Heat ghee in a flat-bottomed pan. Pipe the batter into the hot ghee, making a small ring first and then creating petals around it to form a flower shape.",
+        "Fry on low-medium heat until crisp and light. Drain.",
+        "Immediately soak the hot imarti in the warm sugar syrup for 1-2 minutes.",
+        "Remove and let the excess syrup drain off. Serve."
+      ],
+      "notes": [
+        "The batter needs to be very well-aerated for a light and crisp imarti.",
+        "Unlike jalebi, imarti is fried on lower heat to ensure it cooks through."
+      ]
+    },
+    {
+      "name": "Jalebi",
+      "folderName": "jalebi",
+      "description": "A popular spiral-shaped, crispy, and chewy Indian sweet made by deep-frying a fermented flour batter and soaking it in sugar syrup.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes (plus 12-24 hours fermentation)",
+      "cookTime": "20 minutes",
+      "servings": "25-30 jalebis",
+      "ingredients": [
+        { "name": "All-purpose flour (Maida)", "quantity": 1, "unit": "cup" },
+        { "name": "Yogurt, sour", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Besan (gram flour)", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Baking powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Water", "quantity": 0.75, "unit": "cup" },
+        { "name": "Sugar", "quantity": 2, "unit": "cups" },
+        { "name": "Water (for syrup)", "quantity": 1, "unit": "cup" },
+        { "name": "Saffron and Lemon juice", "quantity": null, "unit": "for syrup" },
+        { "name": "Ghee or Oil", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "In a bowl, mix maida, besan, baking powder, and yogurt. Gradually add water to make a smooth, thick, flowing batter.",
+        "Cover and let it ferment in a warm place for 12-24 hours until it's bubbly and has a sour smell.",
+        "Prepare a one-string consistency sugar syrup with sugar, water, saffron, and a few drops of lemon juice (to prevent crystallization). Keep it warm.",
+        "Whisk the fermented batter well. Pour it into a squeeze bottle or a piping bag.",
+        "Heat ghee in a flat pan. Pipe the batter into the hot ghee in spiral shapes.",
+        "Fry on medium-high heat, turning once, until the jalebis are crisp and golden.",
+        "Remove from ghee, drain, and immediately immerse in the warm sugar syrup for 30-60 seconds.",
+        "Take them out and serve hot."
+      ],
+      "notes": [
+        "A well-fermented batter is crucial for the characteristic tangy taste and crisp texture.",
+        "For an instant version, you can use yeast or Eno fruit salt for quick fermentation."
+      ]
+    },
+    {
+      "name": "Kachori",
+      "folderName": "kachori",
+      "description": "A spicy, round, and flattened fried pastry, filled with a savory mixture of lentils (like moong dal) or onions.",
+      "course": "Snack",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes (plus soaking)",
+      "cookTime": "40 minutes",
+      "servings": "10-12 kachoris",
+      "ingredients": [
+        { "name": "All-purpose flour (Maida)", "quantity": 2, "unit": "cups" },
+        { "name": "Ghee", "quantity": 4, "unit": "tablespoons" },
+        { "name": "Yellow moong dal, soaked", "quantity": 0.5, "unit": "cup" },
+        { "name": "Besan (gram flour)", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Spices (fennel, coriander, chili, amchur, asafoetida)", "quantity": null, "unit": "as needed" },
+        { "name": "Oil", "quantity": null, "unit": "for deep frying" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Prepare a soft dough with maida, ghee, salt, and water. Let it rest.",
+        "Coarsely grind the soaked and drained moong dal.",
+        "Heat oil, add asafoetida and fennel seeds. Add besan and roast. Then add the ground dal and all the powdered spices. Cook until the mixture is dry and fragrant. Let it cool.",
+        "Make small balls of the dough. Flatten each ball, place a spoonful of the dal filling, and seal it carefully.",
+        "Gently flatten the stuffed ball into a small, thick disc.",
+        "Heat oil on low heat. Fry the kachoris on very low heat for 15-20 minutes, turning occasionally, until they are puffed, golden, and crisp.",
+        "Serve hot with tamarind or mint chutney."
+      ],
+      "notes": [
+        "Frying on low heat is the secret to making kachoris 'khasta' (flaky and crisp).",
+        "The filling should be dry to avoid sogginess."
+      ]
+    },
+    {
+      "name": "Kadai Paneer",
+      "folderName": "kadai_paneer",
+      "description": "A popular and flavorful paneer dish where paneer and bell peppers are cooked in a freshly ground spicy masala known as Kadai masala.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Paneer, cubed", "quantity": 250, "unit": "grams" },
+        { "name": "Bell peppers (mixed colors), cubed", "quantity": 1, "unit": "cup" },
+        { "name": "Onion, cubed", "quantity": 1, "unit": "large" },
+        { "name": "Tomato puree", "quantity": 1, "unit": "cup" },
+        { "name": "For Kadai Masala: Whole coriander seeds, Dry red chilies, Cumin seeds", "quantity": null, "unit": "to be roasted and ground" },
+        { "name": "Ginger-garlic paste", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Kasuri methi", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Fresh cream", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Oil", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "First, dry roast the whole spices for the Kadai masala until fragrant. Let them cool and grind into a coarse powder.",
+        "In a kadai (wok), heat oil. Sauté the cubed onions and bell peppers for 2-3 minutes until they are slightly crisp. Remove and set aside.",
+        "In the same kadai, add ginger-garlic paste and sauté. Add the tomato puree and cook until it thickens.",
+        "Add the freshly ground Kadai masala, red chili powder, and turmeric. Sauté for a minute.",
+        "Add about a cup of water and salt. Bring the gravy to a boil.",
+        "Add the paneer cubes and the sautéed vegetables. Simmer for 5-7 minutes.",
+        "Stir in fresh cream and crushed kasuri methi. Cook for another minute.",
+        "Serve hot, garnished with fresh cilantro."
+      ],
+      "notes": [
+        "Using freshly ground Kadai masala makes a huge difference in the flavor of this dish.",
+        "Do not overcook the bell peppers; they should remain crunchy."
+      ]
+    },
+    {
+      "name": "Kadhi Pakoda",
+      "folderName": "kadhi_pakoda",
+      "description": "A classic North Indian comfort food consisting of a tangy yogurt and gram flour-based curry (Kadhi) with deep-fried onion fritters (Pakodas) dunked in it.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes",
+      "cookTime": "45 minutes",
+      "servings": "4-6",
+      "ingredients": [
+        { "name": "For Kadhi: Yogurt, sour", "quantity": 2, "unit": "cups" },
+        { "name": "Besan (gram flour)", "quantity": 0.5, "unit": "cup" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "For Pakoda: Besan, Onion, Spices", "quantity": null, "unit": "as needed" },
+        { "name": "For Tempering: Ghee, Cumin seeds, Mustard seeds, Fenugreek seeds, Dry red chilies, Asafoetida", "quantity": null, "unit": "as needed" }
+      ],
+      "instructions": [
+        "For Pakodas: Make a thick batter with besan, sliced onions, salt, and spices. Deep fry small fritters until golden and crisp. Set aside.",
+        "For Kadhi: In a bowl, whisk yogurt, besan, turmeric, and about 4 cups of water until smooth and lump-free.",
+        "Pour this mixture into a heavy-bottomed pot. Bring to a boil, then reduce heat and simmer for 20-25 minutes, stirring continuously, until the raw taste of besan is gone and the kadhi has thickened.",
+        "Add salt towards the end of cooking.",
+        "Add the prepared pakodas to the simmering kadhi and cook for 5 more minutes.",
+        "For Tempering: Heat ghee in a small pan. Add all the tempering ingredients. When they splutter, pour the hot tempering over the kadhi.",
+        "Serve hot with steamed rice."
+      ],
+      "notes": [
+        "Continuous stirring is essential in the beginning to prevent the yogurt from curdling.",
+        "Add salt at the end, as adding it early can also cause the yogurt to curdle."
+      ]
+    },
+    {
+      "name": "Kajjikaya",
+      "folderName": "kajjikaya",
+      "description": "A traditional crescent-shaped, deep-fried pastry from Andhra Pradesh, filled with a sweet mixture of dry coconut, jaggery, semolina, and nuts.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes",
+      "cookTime": "30 minutes",
+      "servings": "15-20",
+      "ingredients": [
+        { "name": "For Dough: All-purpose flour (Maida)", "quantity": 2, "unit": "cups" },
+        { "name": "For Filling: Dry coconut, grated", "quantity": 1, "unit": "cup" },
+        { "name": "Semolina (sooji), roasted", "quantity": 0.5, "unit": "cup" },
+        { "name": "Powdered sugar or Jaggery", "quantity": 1, "unit": "cup" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Chopped nuts", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Oil", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "Prepare a firm dough with maida, a pinch of salt, 2 tbsp of hot oil, and water. Let it rest.",
+        "For the filling, mix together the grated dry coconut, roasted sooji, powdered sugar/jaggery, cardamom powder, and chopped nuts.",
+        "Roll out a small portion of the dough into a thin circle.",
+        "Place a spoonful of the filling on one half of the circle. Fold the other half over to form a semi-circle.",
+        "Seal the edges tightly, either by pressing or using a kajjikaya mold. You can also create a decorative pattern on the edge.",
+        "Heat oil and deep fry the kajjikayas on medium-low heat until they are golden brown and crisp.",
+        "Drain and let them cool completely before storing."
+      ],
+      "notes": [
+        "Ensure the edges are sealed perfectly to prevent the filling from spilling out into the oil.",
+        "This is similar to Gujiya in North India."
+      ]
+    },
+    {
+      "name": "Kakinada Khaja",
+      "folderName": "kakinada_khaja",
+      "description": "A famous layered sweet from Kakinada, Andhra Pradesh, known for its crispy, flaky exterior and a juicy, syrupy interior.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes",
+      "cookTime": "40 minutes",
+      "servings": "12-15 pieces",
+      "ingredients": [
+        { "name": "All-purpose flour (Maida)", "quantity": 2, "unit": "cups" },
+        { "name": "Ghee, melted", "quantity": 4, "unit": "tablespoons" },
+        { "name": "Rice flour (for paste)", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Sugar", "quantity": 2, "unit": "cups" },
+        { "name": "Water", "quantity": 1, "unit": "cup" },
+        { "name": "Oil or Ghee", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "Knead a semi-stiff dough with maida, 2 tbsp of ghee, and water. Rest for 20 minutes.",
+        "Prepare a paste (sata) by mixing 2 tbsp of ghee and rice flour.",
+        "Divide the dough into balls. Roll each ball into a very thin chapati.",
+        "Take one chapati, apply the sata paste evenly. Place another chapati on top and apply sata again. Repeat for 4-5 layers.",
+        "Tightly roll the stacked chapatis into a log. Cut the log into 1-inch thick pieces.",
+        "Take each piece and gently press it flat with a rolling pin.",
+        "Heat oil on low-medium heat. Fry the khajas until the layers separate and they become golden and crisp.",
+        "Prepare a one-string consistency sugar syrup. Dip the hot fried khajas into the warm syrup for a minute.",
+        "Remove and let them dry."
+      ],
+      "notes": [
+        "Frying on low heat is essential for the layers to cook through and become crisp.",
+        "The sata paste is what helps the layers separate during frying."
+      ]
+    },
+    {
+      "name": "Kalakand",
+      "folderName": "kalakand",
+      "description": "A popular Indian milk cake made from solidified, sweetened milk (chenna and khoya), with a grainy texture.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "10 minutes",
+      "cookTime": "40 minutes",
+      "servings": "12-15 squares",
+      "ingredients": [
+        { "name": "Full-fat milk", "quantity": 2, "unit": "liters" },
+        { "name": "Sugar", "quantity": 0.75, "unit": "cup" },
+        { "name": "Lemon juice or Vinegar", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Pistachios, chopped", "quantity": 2, "unit": "tablespoons" }
+      ],
+      "instructions": [
+        "Grease a tray or plate with ghee and set aside.",
+        "In a heavy, wide pan, bring the milk to a boil. Reduce the heat and simmer, stirring, until it reduces to about half its volume.",
+        "Add the lemon juice to curdle the milk. You should see soft chenna solids separate.",
+        "Continue to cook on low heat, stirring continuously. The mixture will start to thicken as the water evaporates.",
+        "When the mixture has become a thick, grainy mass, add the sugar and cardamom powder.",
+        "Keep cooking and stirring until the mixture leaves the sides of the pan and comes together.",
+        "Pour this mixture into the greased tray and spread it evenly. Garnish with chopped pistachios and press gently.",
+        "Let it set for a few hours at room temperature. Cut into squares and serve."
+      ],
+      "notes": [
+        "This is a one-pan method. A quicker version can be made by mixing store-bought paneer (crumbled) and condensed milk.",
+        "The texture should be moist and grainy, not dry."
+      ]
+    },
+    {
+      "name": "Karela Bharta",
+      "folderName": "karela_bharta",
+      "description": "A unique and flavorful preparation where bitter gourd (karela) is roasted or boiled, mashed, and then sautéed with onions, garlic, and spices.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "25 minutes",
+      "servings": "3-4",
+      "ingredients": [
+        { "name": "Bitter gourd (Karela)", "quantity": 2, "unit": "large" },
+        { "name": "Onion, finely chopped", "quantity": 2, "unit": "large" },
+        { "name": "Garlic, chopped", "quantity": 4, "unit": "cloves" },
+        { "name": "Green chili, chopped", "quantity": 1, "unit": "piece" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Coriander powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Amchur (dry mango powder)", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Mustard oil", "quantity": 3, "unit": "tablespoons" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Wash the bitter gourds. You can either pressure cook them until soft or roast them directly on a flame until the skin is charred.",
+        "Let them cool. Peel the skin (if roasted) and scoop out the seeds. Mash the pulp well.",
+        "Heat mustard oil in a pan until it's smoking slightly. Let it cool a bit.",
+        "Add the chopped garlic and green chili. Sauté for a few seconds.",
+        "Add the chopped onions and sauté until they are soft and golden brown.",
+        "Add the spice powders: turmeric and coriander. Sauté for a minute.",
+        "Add the mashed bitter gourd pulp and salt. Mix everything very well.",
+        "Cook for 5-7 minutes, stirring, until the mixture is well combined and fragrant.",
+        "Turn off the heat and stir in the amchur powder.",
+        "Serve hot with rotis."
+      ],
+      "notes": [
+        "Roasting the karela gives a lovely smoky flavor, similar to baingan bharta.",
+        "Using a generous amount of onions and amchur helps to balance the bitterness of the karela."
+      ]
+    },
+    {
+      "name": "Kofta",
+      "folderName": "kofta",
+      "description": "A dish consisting of deep-fried balls (koftas), typically made from minced meat or vegetables, served in a rich and flavorful gravy.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes",
+      "cookTime": "40 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "For Koftas: Grated bottle gourd/potato/paneer", "quantity": 2, "unit": "cups" },
+        { "name": "Besan (gram flour)", "quantity": 0.5, "unit": "cup" },
+        { "name": "Spices for kofta (ginger, chili, garam masala)", "quantity": null, "unit": "as needed" },
+        { "name": "For Gravy: Onion-tomato paste, Cashew paste", "quantity": null, "unit": "as needed" },
+        { "name": "Spices for gravy (turmeric, chili, coriander)", "quantity": null, "unit": "as needed" },
+        { "name": "Fresh cream", "quantity": 0.25, "unit": "cup" },
+        { "name": "Oil", "quantity": null, "unit": "for frying" }
+      ],
+      "instructions": [
+        "Prepare the koftas: Mix the grated vegetable/paneer with besan, spices, and salt. Form into small balls.",
+        "Deep fry the kofta balls until golden brown and cooked through. Set aside.",
+        "Prepare the gravy: Sauté onion-tomato paste with ginger-garlic paste until oil separates. Add cashew paste and powdered spices. Cook for a few minutes.",
+        "Add water and salt to form a gravy of desired consistency. Let it simmer for 10 minutes.",
+        "Just before serving, gently place the fried koftas into the hot gravy. Simmer for only 2-3 minutes.",
+        "Finish with a swirl of fresh cream and a sprinkle of garam masala.",
+        "Serve immediately to prevent the koftas from becoming too soggy."
+      ],
+      "notes": [
+        "This is a generic recipe for 'Malai Kofta'. Koftas can be made from a wide variety of ingredients.",
+        "Do not add koftas to the gravy too early, as they can disintegrate."
+      ]
+    },
+    {
+      "name": "Kulfi",
+      "folderName": "kulfi",
+      "description": "A traditional Indian frozen dessert, often described as 'Indian ice cream'. It is denser and creamier, made by slowly reducing milk.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "10 minutes",
+      "cookTime": "1 hour",
+      "servings": "6-8 kulfis",
+      "ingredients": [
+        { "name": "Full-fat milk", "quantity": 1, "unit": "liter" },
+        { "name": "Condensed milk", "quantity": 0.5, "unit": "cup" },
+        { "name": "Sugar", "quantity": 0.25, "unit": "cup" },
+        { "name": "Khoya (mawa), crumbled", "quantity": 0.5, "unit": "cup" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Saffron strands", "quantity": 1, "unit": "pinch" },
+        { "name": "Pistachios and Almonds, finely chopped", "quantity": 0.25, "unit": "cup" }
+      ],
+      "instructions": [
+        "In a heavy-bottomed pan, bring the milk to a boil. Reduce heat and simmer, stirring often, until the milk is reduced to about half its volume.",
+        "Scrape the sides of the pan regularly to mix the cream back into the milk.",
+        "Add the condensed milk, sugar, and crumbled khoya. Stir until everything is dissolved.",
+        "Continue to cook for another 10-15 minutes until the mixture (rabri) is thick and creamy.",
+        "Turn off the heat. Add cardamom powder, saffron, and chopped nuts. Let the mixture cool completely.",
+        "Pour the cooled mixture into kulfi molds or small cups.",
+        "Cover with foil and insert a stick if desired.",
+        "Freeze for at least 8 hours or until firm.",
+        "To serve, briefly run the mold under warm water and demold the kulfi."
+      ],
+      "notes": [
+        "Kulfi is not churned like ice cream, which gives it its dense, unique texture.",
+        "For different flavors, you can add mango pulp (for mango kulfi) or more pistachios (for pista kulfi)."
+      ]
+    },
+    {
+      "name": "Kuzhi Paniyaram",
+      "folderName": "kuzhi_paniyaram",
+      "description": "A South Indian dish of savory, pan-fried dumplings made from a fermented batter of rice and lentils, cooked in a special molded pan.",
+      "course": "Snack",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "servings": "15-20 paniyarams",
+      "ingredients": [
+        { "name": "Idli or Dosa batter", "quantity": 2, "unit": "cups" },
+        { "name": "Onion, finely chopped", "quantity": 1, "unit": "medium" },
+        { "name": "Green chili, finely chopped", "quantity": 2, "unit": "pieces" },
+        { "name": "Ginger, grated", "quantity": 0.5, "unit": "inch" },
+        { "name": "Curry leaves, chopped", "quantity": 1, "unit": "sprig" },
+        { "name": "Mustard seeds", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Urad dal", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Oil", "quantity": 2, "unit": "tablespoons" }
+      ],
+      "instructions": [
+        "Heat 1 tbsp oil in a small pan. Add mustard seeds, urad dal, and curry leaves. When they splutter, add the chopped onion, green chili, and ginger.",
+        "Sauté until the onions are translucent. Let this tempering cool.",
+        "Add the cooled tempering to the idli/dosa batter and mix well. The batter for paniyaram is ready.",
+        "Heat a kuzhi paniyaram pan (aebleskiver pan) and add a few drops of oil into each mold.",
+        "When the pan is hot, pour the batter into each mold, filling it up to three-fourths.",
+        "Cover and cook on low-medium heat for 2-3 minutes, until the bottom is golden brown.",
+        "Flip each paniyaram using a skewer or a small spoon. Cook the other side for another 2 minutes until golden and cooked through.",
+        "Serve hot with coconut chutney or tomato chutney."
+      ],
+      "notes": [
+        "You can also make a sweet version (vellam paniyaram) by adding jaggery syrup and coconut to the batter instead of the savory tempering.",
+        "A well-heated pan is essential for crispy exteriors."
+      ]
+    },
+    {
+      "name": "Lassi",
+      "folderName": "lassi",
+      "description": "A popular and traditional yogurt-based drink from the Indian subcontinent, which can be made sweet, salty, or with fruit.",
+      "course": "Beverage",
+      "diet": "Vegetarian",
+      "prepTime": "5 minutes",
+      "cookTime": "0 minutes",
+      "servings": "2",
+      "ingredients": [
+        { "name": "Thick yogurt (curd)", "quantity": 2, "unit": "cups" },
+        { "name": "Sugar", "quantity": 4, "unit": "tablespoons (for sweet lassi)" },
+        { "name": "Salt and Roasted cumin powder", "quantity": null, "unit": "(for salty lassi)" },
+        { "name": "Cold milk or Water", "quantity": 0.5, "unit": "cup" },
+        { "name": "Ice cubes", "quantity": 6, "unit": "pieces" },
+        { "name": "Rose water or Cardamom powder (optional)", "quantity": 0.5, "unit": "teaspoon" }
+      ],
+      "instructions": [
+        "In a blender jar, add the thick yogurt.",
+        "For Sweet Lassi: Add sugar and optional flavorings like rose water or cardamom.",
+        "For Salty Lassi (Chaas): Add salt, black salt, and roasted cumin powder.",
+        "Add the cold milk or water and ice cubes.",
+        "Blend for 1-2 minutes until the mixture is smooth, creamy, and frothy.",
+        "Pour into tall glasses.",
+        "For sweet lassi, you can garnish with a dollop of cream (malai) or chopped pistachios.",
+        "Serve immediately."
+      ],
+      "notes": [
+        "For Mango Lassi, add 1 cup of fresh mango pulp to the blender along with the yogurt and sugar.",
+        "Using thick, full-fat yogurt results in a creamier lassi."
+      ]
+    },
+    {
+      "name": "Ledikeni",
+      "folderName": "ledikeni",
+      "description": "A famous cylindrical-shaped Bengali sweet, a variation of Gulab Jamun, made from chenna and flour, deep-fried and soaked in sugar syrup.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes",
+      "cookTime": "30 minutes",
+      "servings": "12-15 pieces",
+      "ingredients": [
+        { "name": "Chenna (freshly made)", "quantity": 1, "unit": "cup" },
+        { "name": "All-purpose flour (Maida)", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Semolina (Sooji)", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Baking powder", "quantity": 0.25, "unit": "teaspoon" },
+        { "name": "Sugar", "quantity": 2, "unit": "cups" },
+        { "name": "Water", "quantity": 4, "unit": "cups" },
+        { "name": "Oil or Ghee", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "Knead the chenna on a plate for 8-10 minutes until it is completely smooth and releases some fat.",
+        "Add maida, sooji, and baking powder. Knead again for a few minutes to combine everything into a smooth dough.",
+        "Divide the dough and shape it into small, smooth, oval or cylindrical shapes.",
+        "Prepare a thin sugar syrup by boiling sugar and water.",
+        "Heat oil or ghee in a kadai. Deep fry the shaped ledikenis on low-medium heat until they are dark brown.",
+        "Remove from the oil and drain. Immediately drop the hot ledikenis into the warm sugar syrup.",
+        "Let them soak for at least 4-5 hours to absorb the syrup fully.",
+        "Serve at room temperature."
+      ],
+      "notes": [
+        "The sweet is named after Lady Canning, wife of the then Governor-General of India, and was supposedly created in her honor.",
+        "Frying on low heat is crucial to cook them from the inside."
+      ]
+    },
+    {
+      "name": "Litti Chokha",
+      "folderName": "litti_chokha",
+      "description": "A rustic and iconic dish from Bihar, consisting of whole wheat balls (litti) stuffed with a spicy sattu filling, roasted and served with a mash of roasted vegetables (chokha).",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "45 minutes",
+      "cookTime": "1 hour",
+      "servings": "4",
+      "ingredients": [
+        { "name": "For Litti: Whole wheat flour, Sattu (roasted gram flour), Pickled masala, Spices", "quantity": null, "unit": "as needed" },
+        { "name": "For Chokha: Brinjal (eggplant), Tomatoes, Potatoes, Onion, Garlic, Green chili, Mustard oil", "quantity": null, "unit": "as needed" },
+        { "name": "Ghee", "quantity": null, "unit": "for dipping" }
+      ],
+      "instructions": [
+        "For Litti Filling: Mix sattu with finely chopped onion, garlic, ginger, green chilies, cilantro, carom seeds, nigella seeds, lemon juice, salt, and a spoonful of mustard oil or pickle masala.",
+        "For Litti Dough: Knead a firm dough with whole wheat flour, salt, and water.",
+        "Stuff the sattu filling into small portions of the dough, sealing them into tight balls.",
+        "Traditionally, these are roasted over a coal or cow-dung fire. Alternatively, bake them in an oven at 200°C (400°F) until they are cooked through and have cracks on the surface.",
+        "For Chokha: Roast the brinjal and tomatoes directly on a flame until the skin is charred and the inside is soft. Boil the potatoes. Peel everything.",
+        "Mash the roasted vegetables and boiled potatoes together. Add finely chopped raw onion, garlic, green chili, cilantro, salt, and a generous amount of pungent mustard oil. Mix well.",
+        "To serve, crack the hot littis, dip them generously in melted ghee, and serve with the prepared chokha."
+      ],
+      "notes": [
+        "The smoky flavor from roasting the vegetables and littis is characteristic of this dish.",
+        "Mustard oil is essential for the authentic taste of the chokha."
+      ]
+    },
+    {
+      "name": "Lyangcha",
+      "folderName": "lyangcha",
+      "description": "A Bengali sweet, similar in preparation to Gulab Jamun but shaped cylindrically and often darker in color, known for its juicy, dense texture.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes",
+      "cookTime": "30 minutes",
+      "servings": "10-12 pieces",
+      "ingredients": [
+        { "name": "Khoya (mawa), grated", "quantity": 1, "unit": "cup" },
+        { "name": "Paneer or Chenna, grated", "quantity": 0.5, "unit": "cup" },
+        { "name": "All-purpose flour (Maida)", "quantity": 3, "unit": "tablespoons" },
+        { "name": "Baking powder", "quantity": 0.25, "unit": "teaspoon" },
+        { "name": "Sugar", "quantity": 2, "unit": "cups" },
+        { "name": "Water", "quantity": 3, "unit": "cups" },
+        { "name": "Ghee or Oil", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "In a plate, combine the grated khoya and paneer. Knead them together until smooth.",
+        "Add the maida and baking powder. Knead again to form a smooth, crack-free dough.",
+        "Divide the dough and shape it into smooth, cylindrical logs (lyangchas).",
+        "Prepare a sugar syrup by boiling sugar and water until the sugar dissolves. Keep it warm.",
+        "Heat ghee or oil in a kadai on low heat.",
+        "Fry the lyangchas on very low heat, turning them gently, for about 15-20 minutes, until they are a deep, dark brown color all over.",
+        "Drain the fried lyangchas and immediately put them into the warm sugar syrup.",
+        "Let them soak for at least 6-8 hours or overnight to become juicy.",
+        "Serve at room temperature."
+      ],
+      "notes": [
+        "Slow frying on low heat is the key to achieving the characteristic dark color and ensuring the inside is cooked perfectly.",
+        "They absorb a lot of syrup and become very soft and juicy."
+      ]
+    },
+    {
+      "name": "Maach Jhol",
+      "folderName": "maach_jhol",
+      "description": "A traditional and staple Bengali fish curry, characterized by its light, soupy consistency and seasoned with a simple blend of everyday spices.",
+      "course": "Main Course",
+      "diet": "Non-Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "25 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Rohu or Katla fish steaks", "quantity": 4, "unit": "pieces" },
+        { "name": "Potatoes, cut into wedges", "quantity": 2, "unit": "medium" },
+        { "name": "Cauliflower florets (optional)", "quantity": 1, "unit": "cup" },
+        { "name": "Tomato, chopped", "quantity": 1, "unit": "large" },
+        { "name": "Ginger paste", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Cumin powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Turmeric powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Red chili powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Nigella seeds (Kalonji)", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Mustard oil", "quantity": 4, "unit": "tablespoons" },
+        { "name": "Green chilies, slit", "quantity": 2, "unit": "pieces" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Marinate the fish pieces with salt and half of the turmeric powder.",
+        "Heat mustard oil in a kadai until it's smoking hot. Fry the fish pieces until golden brown on both sides. Remove and set aside.",
+        "In the same oil, fry the potato wedges (and cauliflower, if using) until lightly browned. Set aside.",
+        "In the remaining oil, add the nigella seeds and slit green chilies.",
+        "Add the ginger paste, cumin powder, remaining turmeric, and red chili powder with a splash of water. Sauté for a minute.",
+        "Add the chopped tomato and cook until soft.",
+        "Add the fried vegetables and about 2 cups of hot water. Add salt. Bring to a boil.",
+        "Simmer for 10 minutes until the potatoes are tender.",
+        "Gently slide the fried fish pieces into the gravy (jhol). Simmer for another 5 minutes.",
+        "Garnish with fresh cilantro and serve hot with steamed rice."
+      ],
+      "notes": [
+        "This is a light, everyday curry ('jhol' means a thin, soupy gravy).",
+        "Using mustard oil is essential for the authentic Bengali flavor."
+      ]
+    },
+    {
+      "name": "Makki Di Roti Sarson Da Saag",
+      "folderName": "makki_di_roti_sarson_da_saag",
+      "description": "An iconic winter delicacy from Punjab, featuring flatbreads made from maize flour (Makki di Roti) served with a slow-cooked curry of mustard greens (Sarson da Saag).",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "45 minutes",
+      "cookTime": "2 hours",
+      "servings": "4",
+      "ingredients": [
+        { "name": "For Saag: Mustard greens, Spinach, Bathua", "quantity": "1 kg (mixed)" },
+        { "name": "Maize flour (Makki ka atta)", "quantity": 2, "unit": "tablespoons (for saag)" },
+        { "name": "Ginger, Garlic, Onion, Green chilies", "quantity": null, "unit": "for saag tempering" },
+        { "name": "For Roti: Maize flour", "quantity": 2, "unit": "cups" },
+        { "name": "Hot water", "quantity": null, "unit": "for kneading" },
+        { "name": "Ghee and White butter", "quantity": null, "unit": "for serving" }
+      ],
+      "instructions": [
+        "For Saag: Wash and chop all the greens. Pressure cook them with ginger, garlic, and green chilies until very soft. Cool and blend to a coarse paste.",
+        "Return the paste to the pot. Add maize flour slurry to thicken it. Simmer on low heat for at least an hour, stirring often.",
+        "Prepare a tempering by sautéing chopped onion, garlic, and ginger in ghee. Pour this over the saag before serving.",
+        "For Roti: Knead a soft dough with maize flour and hot water. Take a portion, flatten it between your palms or on a plastic sheet to form a round roti.",
+        "Cook on a hot tawa on both sides. You can puff it on a direct flame.",
+        "To Serve: Place a generous dollop of white butter (makkhan) on the hot saag. Serve with makki di roti smeared with ghee."
+      ],
+      "notes": [
+        "Slow-cooking the saag is key to developing its deep, rustic flavor.",
+        "Making makki di roti requires some practice as the dough is gluten-free and can break easily."
+      ]
+    },
+    {
+      "name": "Malapua",
+      "folderName": "malapua",
+      "description": "A sweet, pancake-like Indian dessert, where small pancakes made from a flour batter are deep-fried in ghee and then soaked in sugar syrup.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "10 minutes (plus resting time)",
+      "cookTime": "30 minutes",
+      "servings": "12-15 malpuas",
+      "ingredients": [
+        { "name": "All-purpose flour (Maida)", "quantity": 1, "unit": "cup" },
+        { "name": "Khoya or Milk powder", "quantity": 0.5, "unit": "cup" },
+        { "name": "Fennel seeds (saunf), crushed", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Milk", "quantity": 1, "unit": "cup (approx.)" },
+        { "name": "Sugar (for syrup)", "quantity": 1.5, "unit": "cups" },
+        { "name": "Water (for syrup)", "quantity": 1, "unit": "cup" },
+        { "name": "Saffron and Cardamom", "quantity": null, "unit": "for syrup" },
+        { "name": "Ghee", "quantity": null, "unit": "for shallow frying" }
+      ],
+      "instructions": [
+        "In a bowl, mix maida, khoya/milk powder, and fennel seeds. Gradually add milk to make a smooth, thick, flowing batter (like pancake batter). Let it rest for 30 minutes.",
+        "Prepare a one-string consistency sugar syrup with sugar, water, saffron, and cardamom. Keep it warm.",
+        "Heat ghee in a flat, wide pan. The ghee should be about an inch deep.",
+        "Pour a small ladleful of the batter into the hot ghee to form a small pancake.",
+        "Fry on low-medium heat, flipping once, until both sides are golden brown and the edges are crisp.",
+        "Remove from ghee, drain, and immerse in the warm sugar syrup for 1-2 minutes.",
+        "Take out and serve hot, often with a drizzle of rabri on top."
+      ],
+      "notes": [
+        "The batter consistency is key. If it's too thin, the malpuas will spread too much; if too thick, they'll be dense.",
+        "They are best enjoyed fresh and hot."
+      ]
+    },
+    {
+      "name": "Misi Roti",
+      "folderName": "misi_roti",
+      "description": "A savory and spiced North Indian flatbread made from a mixture of whole wheat flour and gram flour (besan), often flavored with onions, chilies, and spices.",
+      "course": "Bread",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "20 minutes",
+      "servings": "8-10 rotis",
+      "ingredients": [
+        { "name": "Whole wheat flour (Atta)", "quantity": 1.5, "unit": "cups" },
+        { "name": "Besan (gram flour)", "quantity": 1, "unit": "cup" },
+        { "name": "Onion, finely chopped", "quantity": 1, "unit": "medium" },
+        { "name": "Green chili, finely chopped", "quantity": 1, "unit": "piece" },
+        { "name": "Carom seeds (Ajwain)", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Kasuri methi, crushed", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Ghee or Oil", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" },
+        { "name": "Water", "quantity": null, "unit": "for kneading" }
+      ],
+      "instructions": [
+        "In a large bowl, combine wheat flour, besan, chopped onion, green chili, ajwain, turmeric, kasuri methi, and salt.",
+        "Add the ghee and mix well.",
+        "Gradually add water to knead a semi-stiff dough. Let it rest for 15-20 minutes.",
+        "Divide the dough into equal-sized balls.",
+        "Roll out each ball into a round roti, slightly thicker than a chapati.",
+        "Cook on a hot tawa, flipping both sides, until brown spots appear.",
+        "You can either cook it fully on the tawa or puff it on a direct flame.",
+        "Smear generously with butter or ghee and serve hot with dal or any curry."
+      ],
+      "notes": [
+        "The ratio of wheat flour to besan can be adjusted to your preference.",
+        "These rotis are quite filling and have a lovely, nutty flavor from the besan."
+      ]
+    },
+    {
+      "name": "Misti Doi",
+      "folderName": "misti_doi",
+      "description": "A traditional Bengali sweet yogurt, characterized by its thick, creamy texture and a distinct caramel flavor and color, achieved by caramelizing sugar.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "5 minutes",
+      "cookTime": "30 minutes (plus 8-12 hours setting time)",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Full-fat milk", "quantity": 1, "unit": "liter" },
+        { "name": "Sugar", "quantity": 1, "unit": "cup" },
+        { "name": "Plain yogurt (curd) starter", "quantity": 2, "unit": "tablespoons" }
+      ],
+      "instructions": [
+        "In a heavy-bottomed pan, bring the milk to a boil. Then simmer on low heat, stirring occasionally, until it reduces to about 75% of its original volume.",
+        "While the milk is simmering, take half the sugar (1/2 cup) in a separate pan and heat it on low flame without adding water. It will melt and slowly caramelize to a deep amber color. Be careful not to burn it.",
+        "Carefully pour the hot caramelized sugar into the reduced milk. It will sizzle violently. Stir continuously until the caramel dissolves completely in the milk. The milk will turn a beautiful beige color.",
+        "Add the remaining sugar and stir until dissolved. Turn off the heat and let the milk cool down until it is just lukewarm (you should be able to comfortably hold your finger in it).",
+        "Whisk the yogurt starter in a small bowl until smooth. Add a few spoons of the warm milk to the starter and mix well. Then pour this starter mixture into the rest of the milk and stir gently to combine.",
+        "Pour the mixture into earthenware or clay pots (or any setting bowl).",
+        "Cover and keep it in a warm, undisturbed place for 8-12 hours, or until the yogurt is set.",
+        "Once set, refrigerate for a few hours before serving. Do not freeze."
+      ],
+      "notes": [
+        "Using earthenware pots helps absorb excess moisture, resulting in a thicker yogurt.",
+        "The temperature of the milk when adding the starter is crucial. If it's too hot, the yogurt will curdle; if too cold, it won't set."
+      ]
+    },
+    {
+      "name": "Modak",
+      "folderName": "modak",
+      "description": "A sweet dumpling, especially popular during the Ganesh Chaturthi festival, with an outer shell of steamed rice flour and a sweet filling of coconut and jaggery.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "25 minutes",
+      "cookTime": "20 minutes",
+      "servings": "11-15 modaks",
+      "ingredients": [
+        { "name": "For Shell: Rice flour", "quantity": 1, "unit": "cup" },
+        { "name": "Water", "quantity": 1.5, "unit": "cups" },
+        { "name": "Ghee", "quantity": 1, "unit": "teaspoon" },
+        { "name": "For Filling: Fresh coconut, grated", "quantity": 1, "unit": "cup" },
+        { "name": "Jaggery, grated", "quantity": 0.75, "unit": "cup" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Poppy seeds (khus khus), optional", "quantity": 1, "unit": "teaspoon" }
+      ],
+      "instructions": [
+        "For the filling: In a pan, cook the grated coconut and jaggery together until the jaggery melts and the mixture thickens and becomes sticky. Add cardamom powder and poppy seeds. Let it cool.",
+        "For the shell: Boil water with salt and ghee. Turn off the heat. Gradually add the rice flour, stirring continuously to form a lump-free dough. Cover and let it rest for 5 minutes.",
+        "Knead the warm dough for a few minutes until it is smooth and pliable.",
+        "Take a small portion of the dough and flatten it into a cup shape. Place a spoonful of the filling inside.",
+        "Bring the edges together at the top, creating pleats, and seal to form a dumpling shape. You can also use a modak mold.",
+        "Place the prepared modaks in a steamer and steam for 10-12 minutes.",
+        "Serve hot, often with a drizzle of ghee."
+      ],
+      "notes": [
+        "Kneading the rice flour dough while it's still warm is important for a smooth, non-cracking shell.",
+        "Modaks can also be deep-fried (using a wheat flour dough) instead of steamed."
+      ]
+    },
+    {
+      "name": "Momos",
+      "folderName": "momos",
+      "description": "A type of steamed or fried dumpling, popular in Tibet, Nepal, and parts of India, with a savory filling of minced meat or vegetables.",
+      "course": "Snack",
+      "diet": "Non-Vegetarian",
+      "prepTime": "45 minutes",
+      "cookTime": "15 minutes",
+      "servings": "20-25 momos",
+      "ingredients": [
+        { "name": "For Wrapper: All-purpose flour (Maida)", "quantity": 2, "unit": "cups" },
+        { "name": "For Filling: Minced chicken/pork or finely chopped vegetables (cabbage, carrots, onions)", "quantity": 2, "unit": "cups" },
+        { "name": "Soy sauce", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Ginger-garlic paste", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Black pepper", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "For the wrapper: Knead a firm dough with maida, salt, and water. Let it rest.",
+        "For the filling: Mix the minced meat or vegetables with soy sauce, ginger-garlic paste, pepper, and salt.",
+        "Roll out a small portion of the dough into a very thin, small circle.",
+        "Place a spoonful of the filling in the center. Fold the wrapper in half and pleat the edges to seal it, creating a crescent or round shape.",
+        "Arrange the momos in a greased steamer basket, ensuring they don't touch each other.",
+        "Steam over boiling water for 10-12 minutes until the wrappers are translucent and cooked.",
+        "Serve hot with a spicy tomato-chili dipping sauce."
+      ],
+      "notes": [
+        "The wrappers should be as thin as possible without tearing.",
+        "You can also pan-fry the steamed momos (kothey) or deep-fry them."
+      ]
+    },
+    {
+      "name": "Mysore Pak",
+      "folderName": "mysore_pak",
+      "description": "A rich, melt-in-your-mouth sweet from Mysore, Karnataka, made from a generous amount of ghee, sugar, and gram flour (besan).",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "5 minutes",
+      "cookTime": "25 minutes",
+      "servings": "15-20 pieces",
+      "ingredients": [
+        { "name": "Besan (gram flour)", "quantity": 1, "unit": "cup" },
+        { "name": "Sugar", "quantity": 2, "unit": "cups" },
+        { "name": "Ghee", "quantity": 2, "unit": "cups" },
+        { "name": "Water", "quantity": 1, "unit": "cup" }
+      ],
+      "instructions": [
+        "Grease a deep tray with ghee and keep it ready.",
+        "Sieve the besan to ensure it's lump-free.",
+        "In a heavy-bottomed pan, make a sugar syrup by boiling sugar and water until it reaches a one-string consistency.",
+        "While the syrup is cooking, heat the ghee in a separate pan on low flame.",
+        "Once the syrup is ready, reduce the heat to low and add the besan gradually, whisking continuously to avoid lumps.",
+        "Now, start adding the hot ghee, one ladle at a time, into the besan-sugar mixture, stirring continuously.",
+        "Keep adding ghee and stirring. The mixture will become frothy and start to bubble.",
+        "Continue this process for about 15-20 minutes until the mixture turns fragrant, porous, and starts to leave the sides of the pan.",
+        "Quickly pour the mixture into the greased tray and let it set for 10-15 minutes.",
+        "Cut into squares or diamond shapes while it is still warm.",
+        "Let it cool completely before separating the pieces."
+      ],
+      "notes": [
+        "This sweet requires continuous stirring and a bit of arm strength. You must work quickly at the end.",
+        "There are two versions: a porous, crumbly one (like the one described) and a softer, fudgy one."
+      ]
+    },
+    {
+      "name": "Naan",
+      "folderName": "naan",
+      "description": "A popular leavened, oven-baked or tawa-fried flatbread, soft and chewy in texture, a staple in many Indian restaurants.",
+      "course": "Bread",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes (plus 2-3 hours resting)",
+      "cookTime": "15 minutes",
+      "servings": "6-8 naans",
+      "ingredients": [
+        { "name": "All-purpose flour (Maida)", "quantity": 2, "unit": "cups" },
+        { "name": "Yogurt", "quantity": 0.25, "unit": "cup" },
+        { "name": "Milk, warm", "quantity": 0.5, "unit": "cup" },
+        { "name": "Sugar", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Active dry yeast or Baking powder", "quantity": "1 tsp or 0.5 tsp" },
+        { "name": "Oil", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Nigella seeds (Kalonji) and Cilantro", "quantity": null, "unit": "for topping" },
+        { "name": "Butter", "quantity": null, "unit": "for brushing" },
+        { "name": "Salt", "quantity": 0.5, "unit": "teaspoon" }
+      ],
+      "instructions": [
+        "Activate the yeast in warm milk with sugar. If using baking powder, skip this.",
+        "In a bowl, mix maida and salt. Add the yeast mixture (or baking powder), yogurt, and oil. Knead into a very soft and sticky dough, adding more warm water if needed.",
+        "Cover and let the dough rise in a warm place for 2-3 hours until doubled.",
+        "Knead again lightly. Divide into balls.",
+        "Roll each ball into a teardrop or oval shape. Sprinkle some kalonji and cilantro on top and press gently.",
+        "Cook on a very hot tawa or in a preheated oven at high temperature. For tawa, flip and cook both sides. You can also place it on a direct flame to get charred spots.",
+        "Brush generously with melted butter and serve hot."
+      ],
+      "notes": [
+        "A soft, slightly sticky dough is essential for soft naans.",
+        "For Garlic Naan, add finely chopped garlic to the topping or brush with garlic-infused butter."
+      ]
+    },
+    {
+      "name": "Navrattan Korma",
+      "folderName": "navrattan_korma",
+      "description": "A rich and creamy Mughlai dish, literally meaning 'nine-gem curry', made with nine different vegetables, fruits, and nuts in a cashew-based white gravy.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "25 minutes",
+      "cookTime": "30 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Mixed vegetables (carrots, peas, beans, cauliflower, potatoes)", "quantity": 2, "unit": "cups" },
+        { "name": "Paneer, cubed", "quantity": 0.5, "unit": "cup" },
+        { "name": "Cashew nuts", "quantity": 0.25, "unit": "cup" },
+        { "name": "Pineapple chunks or Grapes", "quantity": 0.25, "unit": "cup" },
+        { "name": "Onion paste", "quantity": 0.5, "unit": "cup" },
+        { "name": "Cashew paste", "quantity": 0.25, "unit": "cup" },
+        { "name": "Fresh cream", "quantity": 0.25, "unit": "cup" },
+        { "name": "Ginger-garlic paste", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Garam masala", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Sugar", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Oil or Ghee", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Boil or steam the mixed vegetables until they are just tender. Set aside.",
+        "Lightly fry the paneer cubes and cashew nuts until golden. Set aside.",
+        "Heat ghee in a pan. Sauté the onion paste until translucent.",
+        "Add ginger-garlic paste and cook for a minute.",
+        "Add the cashew paste and cook for 2-3 minutes, stirring continuously.",
+        "Add about a cup of water or milk, sugar, and salt. Bring the gravy to a gentle simmer.",
+        "Add the boiled vegetables, fried paneer, and cashews to the gravy.",
+        "Simmer for 5-7 minutes.",
+        "Stir in the fresh cream and garam masala. Add the pineapple chunks or grapes.",
+        "Cook for one more minute and then turn off the heat. Serve hot."
+      ],
+      "notes": [
+        "This dish has a mildly sweet and rich flavor profile.",
+        "The 'nine gems' can be any combination of vegetables, nuts, and fruits you like."
+      ]
+    },
+    {
+      "name": "Palak Paneer",
+      "folderName": "palak_paneer",
+      "description": "A popular vegetarian dish consisting of paneer (Indian cottage cheese) in a smooth, creamy, and vibrant spinach gravy.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "25 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Spinach (Palak)", "quantity": 250, "unit": "grams" },
+        { "name": "Paneer, cubed", "quantity": 200, "unit": "grams" },
+        { "name": "Onion, finely chopped", "quantity": 1, "unit": "medium" },
+        { "name": "Tomato, finely chopped", "quantity": 1, "unit": "medium" },
+        { "name": "Ginger-garlic paste", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Green chili", "quantity": 2, "unit": "pieces" },
+        { "name": "Cumin seeds", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Garam masala", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Fresh cream", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Oil or Ghee", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Blanch the spinach in hot water for 2-3 minutes, then immediately transfer to ice-cold water. Drain and blend to a smooth puree.",
+        "Heat oil/ghee in a pan. Add cumin seeds. Once they splutter, add the chopped onion and sauté until golden brown.",
+        "Add ginger-garlic paste and green chilies. Sauté for a minute.",
+        "Add chopped tomatoes, turmeric powder, and salt. Cook until tomatoes are soft and oil starts to separate.",
+        "Pour in the spinach puree and cook for 5-7 minutes.",
+        "Add the paneer cubes and garam masala. Mix gently and simmer for 2-3 minutes.",
+        "Stir in the fresh cream and turn off the heat.",
+        "Serve hot with chapati or naan."
+      ],
+      "notes": [
+        "To keep the green color vibrant, do not overcook the spinach puree.",
+        "You can lightly pan-fry the paneer cubes before adding them to the gravy for a firmer texture."
+      ]
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "folderName": "paneer_butter_masala",
+      "description": "A rich and creamy dish of paneer (Indian cottage cheese) in a buttery, tomato-based gravy, a vegetarian alternative to Butter Chicken.",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Paneer, cubed", "quantity": 250, "unit": "grams" },
+        { "name": "Tomatoes, pureed", "quantity": 4, "unit": "large" },
+        { "name": "Onion, finely chopped", "quantity": 1, "unit": "medium" },
+        { "name": "Cashew nuts, soaked", "quantity": 15, "unit": "pieces" },
+        { "name": "Ginger-garlic paste", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Butter", "quantity": 3, "unit": "tablespoons" },
+        { "name": "Fresh cream", "quantity": 0.25, "unit": "cup" },
+        { "name": "Kashmiri red chili powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Garam masala", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Kasuri methi, crushed", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Sugar", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" }
+      ],
+      "instructions": [
+        "Grind the soaked cashews into a fine paste.",
+        "Heat 1 tbsp of butter in a pan. Sauté the chopped onion until golden.",
+        "Add ginger-garlic paste and cook for a minute.",
+        "Add the tomato puree and cook for 10-12 minutes until it thickens.",
+        "Add the cashew paste, red chili powder, and salt. Cook for another 5 minutes.",
+        "Add about a cup of water and the sugar. Let the gravy simmer.",
+        "Add the paneer cubes and let them cook in the gravy for 5 minutes.",
+        "Finally, add the remaining butter, fresh cream, garam masala, and crushed kasuri methi. Stir and cook for 2 more minutes.",
+        "Serve hot with naan or jeera rice."
+      ],
+      "notes": [
+        "The gravy should be smooth, creamy, and have a beautiful orange-red color.",
+        "You can soak the paneer cubes in warm water for 10 minutes to make them softer."
+      ]
+    },
+    {
+      "name": "Pani Puri",
+      "folderName": "pani_puri",
+      "description": "A hugely popular Indian street food consisting of a small, hollow, crispy puri, filled with a mixture of flavored water (pani), tamarind chutney, chaat masala, potato, and chickpeas.",
+      "course": "Snack",
+      "diet": "Vegetarian",
+      "prepTime": "45 minutes",
+      "cookTime": "20 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "For Puri: Semolina (Sooji) and All-purpose flour", "quantity": null, "unit": "or ready-made puris" },
+        { "name": "For Pani: Mint leaves, Cilantro, Green chilies, Ginger, Tamarind pulp, Black salt, Chaat masala, Roasted cumin powder", "quantity": null, "unit": "as needed" },
+        { "name": "For Filling: Boiled potatoes, mashed; Boiled chickpeas or moong sprouts", "quantity": null, "unit": "as needed" }
+      ],
+      "instructions": [
+        "For the Pani: Blend mint, cilantro, ginger, and green chilies into a fine paste. Mix this paste with about 4-5 cups of cold water. Add tamarind pulp, black salt, chaat masala, and cumin powder. Adjust spices to taste. Chill the pani.",
+        "For the Filling: In a bowl, mix the mashed potatoes, boiled chickpeas/sprouts, a little chili powder, and salt.",
+        "To Assemble: Take a puri and gently tap the top to create a small hole.",
+        "Stuff a little of the potato-chickpea filling inside the puri.",
+        "Dip the stuffed puri into the chilled pani, fill it up, and eat it immediately in one bite.",
+        "A sweet tamarind chutney can also be added to the puri before dipping in the pani."
+      ],
+      "notes": [
+        "This snack is an explosion of flavors: spicy, tangy, sweet, and savory all at once.",
+        "It's an interactive food, best assembled and eaten on the spot."
+      ]
+    },
+    {
+      "name": "Pav Bhaji",
+      "folderName": "pav_bhaji",
+      "description": "A popular Indian street food from Mumbai, consisting of a spicy mash of mixed vegetables (bhaji) served with soft, buttered bread rolls (pav).",
+      "course": "Main Course",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes",
+      "cookTime": "40 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Mixed vegetables (potatoes, cauliflower, peas, carrots, bell peppers), chopped", "quantity": 4, "unit": "cups" },
+        { "name": "Onions, finely chopped", "quantity": 2, "unit": "large" },
+        { "name": "Tomatoes, finely chopped", "quantity": 3, "unit": "large" },
+        { "name": "Ginger-garlic paste", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Pav bhaji masala", "quantity": 3, "unit": "tablespoons" },
+        { "name": "Kashmiri red chili powder", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Butter", "quantity": 0.5, "unit": "cup" },
+        { "name": "Pav (bread rolls)", "quantity": 8, "unit": "pieces" },
+        { "name": "Lemon wedges and chopped onions", "quantity": null, "unit": "for serving" }
+      ],
+      "instructions": [
+        "Boil all the mixed vegetables until they are very soft. Drain and mash them coarsely.",
+        "In a large, wide pan (tawa), melt a generous amount of butter. Add the chopped onions and sauté until translucent.",
+        "Add ginger-garlic paste and cook for a minute.",
+        "Add the chopped tomatoes and cook until they are completely soft and mushy.",
+        "Add the pav bhaji masala and Kashmiri red chili powder. Mix well and cook for 2 minutes.",
+        "Add the mashed vegetables to the pan. Mix everything thoroughly. Use a masher to mash the vegetables further directly on the pan.",
+        "Add salt and about a cup of water. Let the bhaji simmer for 10-15 minutes, mashing occasionally, until it reaches a thick, cohesive consistency.",
+        "Finish with a large dollop of butter and chopped cilantro.",
+        "To serve, slit the pavs horizontally, smear with butter, and toast them on the tawa until lightly browned.",
+        "Serve the hot bhaji with the buttered pav, a lemon wedge, and some raw chopped onions."
+      ],
+      "notes": [
+        "A generous amount of butter is key to the authentic taste.",
+        "The final texture of the bhaji should be a coarse mash, not a smooth puree."
+      ]
+    },
+    {
+      "name": "Phirni",
+      "folderName": "phirni",
+      "description": "A classic, creamy North Indian pudding made with ground rice, milk, and sugar, set in small earthenware bowls (shikoras) and served chilled.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes (plus soaking)",
+      "cookTime": "30 minutes",
+      "servings": "6",
+      "ingredients": [
+        { "name": "Basmati rice", "quantity": 0.25, "unit": "cup" },
+        { "name": "Full-fat milk", "quantity": 1, "unit": "liter" },
+        { "name": "Sugar", "quantity": 0.75, "unit": "cup" },
+        { "name": "Saffron strands, soaked in milk", "quantity": 1, "unit": "pinch" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Rose water", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Pistachios and Almonds, slivered", "quantity": 2, "unit": "tablespoons" }
+      ],
+      "instructions": [
+        "Wash and soak the basmati rice for at least 30 minutes. Drain and grind it into a coarse, grainy paste with a little milk or water.",
+        "In a heavy-bottomed pan, bring the milk to a boil.",
+        "Add the ground rice paste to the boiling milk, stirring continuously to prevent lumps from forming.",
+        "Reduce the heat and simmer, stirring frequently, for about 15-20 minutes, until the rice is cooked and the mixture has thickened considerably.",
+        "Add the sugar and saffron milk. Stir well until the sugar dissolves.",
+        "Continue to cook for another 5 minutes until the phirni is thick and creamy.",
+        "Turn off the heat and stir in the cardamom powder and rose water.",
+        "Pour the phirni into individual earthenware bowls. Garnish with slivered nuts.",
+        "Let it cool to room temperature, then refrigerate for at least 3-4 hours until well chilled and set.",
+        "Serve cold."
+      ],
+      "notes": [
+        "Phirni is different from kheer in that it uses ground rice instead of whole rice, resulting in a smoother, pudding-like texture.",
+        "Setting it in earthenware bowls enhances the flavor and helps thicken it."
+      ]
+    },
+    {
+      "name": "Pithe",
+      "folderName": "pithe",
+      "description": "A diverse category of homemade sweets from the eastern Indian states, especially Bengal, Assam, and Odisha, typically made from rice flour and having a sweet filling.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes",
+      "cookTime": "30 minutes",
+      "servings": "varies",
+      "ingredients": [
+        { "name": "For Shell: Rice flour or Semolina", "quantity": null, "unit": "varies" },
+        { "name": "For Filling: Coconut, Jaggery, Khoya", "quantity": null, "unit": "varies" },
+        { "name": "Milk, Sugar, or Jaggery syrup", "quantity": null, "unit": "for cooking/soaking" }
+      ],
+      "instructions": [
+        "This is a general recipe for a popular type, 'Doodh Puli Pithe'.",
+        "Prepare a filling by cooking grated coconut and jaggery until sticky.",
+        "Prepare a dough with rice flour and hot water. Knead until smooth.",
+        "Take a small portion of dough, flatten it, stuff with the filling, and seal it into a small dumpling shape (puli).",
+        "In a separate pot, bring milk to a boil. Add sugar or jaggery and cardamom.",
+        "Gently drop the prepared puli into the simmering sweet milk.",
+        "Cook on low heat for 10-15 minutes until the puli are cooked and the milk has thickened.",
+        "Serve warm or chilled."
+      ],
+      "notes": [
+        "'Pithe' is a broad term covering many varieties: some are steamed (bhapa pithe), some are fried (bhaja pithe), and some are cooked in milk or syrup (doodh puli, roshbora)."
+      ]
+    },
+    {
+      "name": "Poha",
+      "folderName": "poha",
+      "description": "A popular and light breakfast dish from Western India, made from flattened rice (poha), sautéed with onions, potatoes, and spices.",
+      "course": "Breakfast",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "15 minutes",
+      "servings": "3-4",
+      "ingredients": [
+        { "name": "Thick Poha (flattened rice)", "quantity": 2, "unit": "cups" },
+        { "name": "Onion, finely chopped", "quantity": 1, "unit": "medium" },
+        { "name": "Potato, finely diced (optional)", "quantity": 1, "unit": "small" },
+        { "name": "Mustard seeds", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Curry leaves", "quantity": 8, "unit": "leaves" },
+        { "name": "Green chilies, chopped", "quantity": 2, "unit": "pieces" },
+        { "name": "Peanuts", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Turmeric powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Sugar", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Lemon juice", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Oil", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Fresh cilantro and Sev", "quantity": null, "unit": "for garnish" }
+      ],
+      "instructions": [
+        "Place the poha in a sieve and rinse it under running water for a minute. Let it drain completely. The poha will soften.",
+        "Heat oil in a pan. Add mustard seeds. When they crackle, add the peanuts and sauté until crisp. Add the curry leaves and green chilies.",
+        "Add the chopped onion (and potato, if using). Sauté until the onion is translucent and the potato is tender.",
+        "Add the turmeric powder and sauté for a few seconds.",
+        "Add the drained poha, salt, and sugar. Mix very gently to combine everything, being careful not to mash the poha.",
+        "Cover and cook on low heat for 2-3 minutes, allowing the poha to steam.",
+        "Turn off the heat. Squeeze the lemon juice over the poha and mix gently.",
+        "Garnish with fresh cilantro and a generous amount of sev. Serve immediately."
+      ],
+      "notes": [
+        "Do not soak the poha in water, just rinse it. Soaking will make it mushy.",
+        "The dish should be light, fluffy, and non-sticky."
+      ]
+    },
+    {
+      "name": "Poornalu",
+      "folderName": "poornalu",
+      "description": "A traditional festive sweet from Andhra Pradesh, consisting of a sweet lentil-jaggery ball dipped in a rice-lentil batter and deep-fried.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes (plus soaking)",
+      "cookTime": "40 minutes",
+      "servings": "15-20",
+      "ingredients": [
+        { "name": "For Filling: Chana dal", "quantity": 1, "unit": "cup" },
+        { "name": "Jaggery, powdered", "quantity": 1, "unit": "cup" },
+        { "name": "Coconut, grated", "quantity": 0.5, "unit": "cup" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "For Batter: Dosa batter or a mix of Urad dal and Rice flour", "quantity": 2, "unit": "cups" },
+        { "name": "Oil", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "For the filling (poornam): Cook the soaked chana dal until soft but not mushy. Drain all the water.",
+        "Grind the dal into a paste. In a pan, cook this dal paste with jaggery and coconut until the mixture thickens and leaves the sides of the pan. Add cardamom powder. Let it cool.",
+        "Make small, tight balls from the cooled filling.",
+        "For the batter: Prepare a thick batter, similar to dosa batter but slightly thicker, by grinding soaked urad dal and rice.",
+        "Heat oil in a kadai.",
+        "Dip each filling ball into the batter, ensuring it's coated evenly.",
+        "Carefully drop the batter-coated balls into the hot oil. Fry on medium heat until they are golden brown and crisp.",
+        "Drain and serve warm."
+      ],
+      "notes": [
+        "The filling should be dry and firm so that it's easy to shape into balls.",
+        "The batter should be thick enough to coat the filling balls properly without being too heavy."
+      ]
+    },
+    {
+      "name": "Pootharekulu",
+      "folderName": "pootharekulu",
+      "description": "A unique and delicate paper-thin sweet from Andhra Pradesh, made from a special rice starch batter, layered with powdered sugar and ghee.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "1 hour",
+      "cookTime": "1 hour",
+      "servings": "20-25",
+      "ingredients": [
+        { "name": "Special rice variety (Jaya biyyam)", "quantity": 1, "unit": "cup" },
+        { "name": "Powdered sugar", "quantity": 2, "unit": "cups" },
+        { "name": "Ghee, melted", "quantity": 1, "unit": "cup" },
+        { "name": "Chopped nuts (optional)", "quantity": null, "unit": "for filling" }
+      ],
+      "instructions": [
+        "This is a highly specialized sweet that is difficult to make at home without the right equipment and skill.",
+        "A special rice batter is made and fermented.",
+        "A terracotta pot is heated upside down over a fire.",
+        "A thin cloth is dipped into the batter and quickly wiped over the hot pot, creating a paper-thin, transparent film that cooks instantly.",
+        "This film is carefully peeled off. Two or three such films are layered.",
+        "Ghee is smeared over the layers, and a generous amount of powdered sugar (and nuts) is sprinkled.",
+        "The layered sheet is then folded neatly into a rectangle.",
+        "The final product is a crispy, flaky, and translucent sweet that melts in the mouth."
+      ],
+      "notes": [
+        "The name 'Pootharekulu' translates to 'coated sheets'.",
+        "It's an art form passed down through generations in the villages of Andhra Pradesh, particularly Atreyapuram."
+      ]
+    },
+    {
+      "name": "Qubani Ka Meetha",
+      "folderName": "qubani_ka_meetha",
+      "description": "A classic Hyderabadi dessert made from dried apricots (qubani), cooked into a compote and often served with fresh cream, malai, or ice cream.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "10 minutes (plus overnight soaking)",
+      "cookTime": "30 minutes",
+      "servings": "6",
+      "ingredients": [
+        { "name": "Dried apricots (Qubani)", "quantity": 250, "unit": "grams" },
+        { "name": "Sugar", "quantity": 0.5, "unit": "cup" },
+        { "name": "Water", "quantity": 3, "unit": "cups" },
+        { "name": "Lemon juice", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Fresh cream or Malai", "quantity": null, "unit": "for serving" },
+        { "name": "Blanched almonds", "quantity": null, "unit": "for garnish" }
+      ],
+      "instructions": [
+        "Wash the dried apricots and soak them in 3 cups of water overnight.",
+        "The next day, the apricots will be plump and soft. Deseed them, but reserve the kernels inside the seeds.",
+        "Crack open the seeds to get the apricot kernels. Blanch them to remove the skin.",
+        "In a pan, cook the soaked apricots along with their soaking water on medium heat until they become very soft and mushy.",
+        "Add the sugar and continue to cook, stirring, until the mixture thickens to a jam-like consistency.",
+        "Add the lemon juice and mix well. Turn off the heat.",
+        "Let the meetha cool down completely.",
+        "To serve, spoon the Qubani ka Meetha into serving bowls, top with a swirl of fresh cream or a dollop of malai, and garnish with the blanched apricot kernels and almonds."
+      ],
+      "notes": [
+        "The apricot kernels have a nutty flavor similar to almonds and are the traditional garnish.",
+        "The amount of sugar depends on the sweetness of the apricots used."
+      ]
+    },
+    {
+      "name": "Rabri",
+      "folderName": "rabri",
+      "description": "A rich, sweetened, and thickened milk dessert, made by slowly simmering milk until it reduces, collecting the layers of cream (malai) to create a lumpy, luscious texture.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "5 minutes",
+      "cookTime": "1 hour 15 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Full-fat milk", "quantity": 1.5, "unit": "liters" },
+        { "name": "Sugar", "quantity": 0.5, "unit": "cup" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Saffron strands", "quantity": 1, "unit": "pinch" },
+        { "name": "Pistachios and Almonds, slivered", "quantity": 2, "unit": "tablespoons" }
+      ],
+      "instructions": [
+        "Pour the milk into a wide, heavy-bottomed pan (kadai) and bring to a boil.",
+        "Reduce the heat to low and let it simmer. Do not stir the milk too often.",
+        "A layer of cream (malai) will form on the surface. Gently push this layer from the center to the sides of the pan.",
+        "Continue this process of simmering and collecting the cream on the sides until the milk is reduced to about one-third of its original volume.",
+        "Now, scrape all the collected cream layers from the sides and mix them back into the thickened milk. This gives rabri its characteristic texture.",
+        "Add sugar, saffron, and cardamom powder. Cook for another 5 minutes until the sugar dissolves.",
+        "Turn off the heat. The rabri will thicken more as it cools.",
+        "Garnish with slivered nuts. Serve chilled on its own, or as a topping for jalebi, malpua, or ghevar."
+      ],
+      "notes": [
+        "This process requires patience. The key is to let the cream form and not to stir the milk constantly.",
+        "This is very similar to Basundi, but Rabri is generally thicker and has more prominent layers of cream."
+      ]
+    },
+    {
+      "name": "Rasgulla",
+      "folderName": "rasgulla",
+      "description": "A famous Bengali sweet consisting of soft, spongy balls of chenna (Indian cottage cheese) cooked and soaked in a light sugar syrup.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes",
+      "cookTime": "20 minutes",
+      "servings": "12-15 rasgullas",
+      "ingredients": [
+        { "name": "Full-fat milk", "quantity": 1, "unit": "liter" },
+        { "name": "Lemon juice or Vinegar", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Sugar", "quantity": 1.5, "unit": "cups" },
+        { "name": "Water", "quantity": 4, "unit": "cups" },
+        { "name": "Rose water (optional)", "quantity": 1, "unit": "teaspoon" },
+        { "name": "All-purpose flour or Semolina (optional)", "quantity": 1, "unit": "teaspoon" }
+      ],
+      "instructions": [
+        "Make chenna by curdling boiling milk with lemon juice. Strain it, rinse, and squeeze out all excess water.",
+        "Knead the chenna on a plate for 8-10 minutes with the heel of your palm until it is very smooth, soft, and non-greasy. Add flour/semolina if using.",
+        "Divide the smooth chenna into small, crack-free balls.",
+        "In a large, wide pot or pressure cooker, dissolve the sugar in water and bring it to a rolling boil.",
+        "Carefully drop the chenna balls into the boiling syrup.",
+        "Cover and cook on high heat for 15-20 minutes. The rasgullas will puff up and double in size.",
+        "Turn off the heat and let them cool completely in the syrup. Add rose water.",
+        "Refrigerate for a few hours before serving. Serve chilled."
+      ],
+      "notes": [
+        "A well-kneaded, smooth chenna is the secret to spongy, non-breaking rasgullas.",
+        "The pot must be large enough to accommodate the expanded rasgullas."
+      ]
+    },
+    {
+      "name": "Ras Malai",
+      "folderName": "ras_malai",
+      "description": "A luxurious Bengali dessert where soft, flattened chenna discs are cooked in sugar syrup and then soaked in a thickened, sweetened, and flavored milk (rabri).",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes",
+      "cookTime": "1 hour",
+      "servings": "10-12 pieces",
+      "ingredients": [
+        { "name": "For Chenna discs: Milk, Lemon juice (as for rasgulla)", "quantity": "1 liter", "unit": null },
+        { "name": "For Rabri: Full-fat milk", "quantity": 1, "unit": "liter" },
+        { "name": "Sugar", "quantity": 0.75, "unit": "cup" },
+        { "name": "Saffron, Cardamom powder, slivered Pistachios & Almonds", "quantity": null, "unit": "as needed" }
+      ],
+      "instructions": [
+        "First, prepare the chenna discs. Follow the Rasgulla recipe to make chenna, knead it, but shape it into small, flattened discs instead of balls.",
+        "Cook these discs in a light sugar syrup (1 cup sugar to 4 cups water) for 10-12 minutes until they puff up. Let them cool in the syrup.",
+        "While they cool, prepare the rabri. Boil 1 liter of milk and simmer it until it reduces to about two-thirds of its volume.",
+        "Add sugar, saffron, and cardamom powder to the reduced milk. Stir until sugar dissolves.",
+        "Gently squeeze the excess syrup from the cooled chenna discs and add them to the warm rabri.",
+        "Simmer for 5-7 minutes, allowing the discs to absorb the flavored milk.",
+        "Turn off the heat. Garnish with slivered nuts.",
+        "Chill thoroughly for at least 4-6 hours before serving."
+      ],
+      "notes": [
+        "The chenna discs should be soft and spongy to absorb the rabri well.",
+        "The rabri for ras malai is typically thinner than the rabri served on its own."
+      ]
+    },
+    {
+      "name": "Samosa",
+      "folderName": "samosa",
+      "description": "A crispy, deep-fried triangular pastry filled with a savory mixture of spiced potatoes and peas.",
+      "course": "Snack",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes",
+      "cookTime": "30 minutes",
+      "servings": "10-12 samosas",
+      "ingredients": [
+        { "name": "All-purpose flour (Maida)", "quantity": 2, "unit": "cups" },
+        { "name": "Ghee or oil, for dough", "quantity": 4, "unit": "tablespoons" },
+        { "name": "Carom seeds (Ajwain)", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Potatoes, boiled and mashed", "quantity": 4, "unit": "medium" },
+        { "name": "Green peas, boiled", "quantity": 0.5, "unit": "cup" },
+        { "name": "Cumin seeds", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Coriander powder", "quantity": 1, "unit": "teaspoon" },
+        { "name": "Garam masala", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Red chili powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Amchur (dry mango powder)", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Salt", "quantity": null, "unit": "to taste" },
+        { "name": "Oil", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "For the dough: In a bowl, mix flour, carom seeds, salt, and ghee. Rub until it resembles breadcrumbs. Add water gradually to form a stiff dough. Cover and rest for 30 minutes.",
+        "For the filling: Heat 1 tbsp oil in a pan. Add cumin seeds. Add mashed potatoes, peas, and all the powdered spices. Mix well and cook for 5 minutes. Let it cool.",
+        "Divide the dough into small balls. Roll each ball into an oval shape and cut it in half.",
+        "Take one half, form a cone, and stuff it with the potato filling. Seal the edges using a little water.",
+        "Heat oil in a wok or deep pan. Fry the samosas on low-medium heat until they are golden brown and crispy.",
+        "Serve hot with mint chutney or tamarind chutney."
+      ],
+      "notes": [
+        "Frying on low heat is crucial for a crispy, non-bubbly crust.",
+        "The dough should be stiff, not soft like chapati dough."
+      ]
+    },
+    {
+      "name": "Sandesh",
+      "folderName": "sandesh",
+      "description": "A simple and elegant Bengali sweet made from fresh, finely kneaded chenna and powdered sugar, often flavored with cardamom or saffron.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "25 minutes",
+      "cookTime": "10 minutes",
+      "servings": "12-15 pieces",
+      "ingredients": [
+        { "name": "Chenna (from 1 liter full-fat milk)", "quantity": 1, "unit": "cup" },
+        { "name": "Powdered sugar", "quantity": 0.25, "unit": "cup" },
+        { "name": "Cardamom powder", "quantity": 0.25, "unit": "teaspoon" },
+        { "name": "Pistachio slivers or Saffron", "quantity": null, "unit": "for garnish" }
+      ],
+      "instructions": [
+        "Prepare fresh chenna, ensuring it is well-drained and has no excess moisture.",
+        "Place the chenna on a large plate and knead it with the heel of your palm for 8-10 minutes until it becomes completely smooth, creamy, and non-greasy.",
+        "Add the powdered sugar and cardamom powder to the kneaded chenna. Mix well.",
+        "Transfer this mixture to a non-stick pan. Cook on very low heat for 5-7 minutes, stirring continuously. The mixture will come together and start to leave the sides of the pan. Do not overcook.",
+        "Immediately transfer the mixture back to the plate and let it cool until it's just warm enough to handle.",
+        "Knead it again for a minute to make it smooth.",
+        "You can either shape it by hand into small patties or press it into sandesh molds to create decorative patterns.",
+        "Garnish with a pistachio sliver or a strand of saffron.",
+        "Refrigerate for an hour to let it set properly. Serve chilled."
+      ],
+      "notes": [
+        "The key to a good sandesh is perfectly made chenna and thorough kneading.",
+        "Overcooking the chenna-sugar mixture will make the sandesh hard and chewy."
+      ]
+    },
+    {
+      "name": "Shankarpali",
+      "folderName": "shankarpali",
+      "description": "A popular sweet or savory snack from Maharashtra, made by deep-frying small, diamond-shaped pieces of a flour dough.",
+      "course": "Snack",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "25 minutes",
+      "servings": "4 cups",
+      "ingredients": [
+        { "name": "All-purpose flour (Maida)", "quantity": 2, "unit": "cups" },
+        { "name": "Ghee, melted", "quantity": 0.25, "unit": "cup" },
+        { "name": "Powdered sugar", "quantity": 0.5, "unit": "cup" },
+        { "name": "Milk or Water", "quantity": 0.5, "unit": "cup" },
+        { "name": "Cardamom powder (optional)", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Oil", "quantity": null, "unit": "for deep frying" }
+      ],
+      "instructions": [
+        "In a bowl, mix the flour and cardamom powder.",
+        "In a separate pan, warm the milk/water, sugar, and ghee together until the sugar dissolves. Let it cool slightly.",
+        "Gradually add this liquid mixture to the flour and knead a stiff dough.",
+        "Cover and let the dough rest for 20-30 minutes.",
+        "Divide the dough into large balls. Roll out each ball into a thick chapati (about 1/4 inch thickness).",
+        "Using a knife or a pizza cutter, cut the rolled dough into diamond or square shapes.",
+        "Separate the pieces and keep them on a plate.",
+        "Heat oil in a kadai on medium-low heat. Fry the shankarpali in batches until they are golden brown and crisp.",
+        "Drain on a paper towel and let them cool completely.",
+        "Store in an airtight container."
+      ],
+      "notes": [
+        "Frying on low heat ensures they cook evenly and become crispy.",
+        "For a savory version (namkeen shankarpali), replace sugar with salt, and add ajwain (carom seeds) and chili powder."
+      ]
+    },
+    {
+      "name": "Sheera",
+      "folderName": "sheera",
+      "description": "A simple and comforting Indian pudding made from roasted semolina (sooji/rava), ghee, sugar, and water or milk, often served as prasad.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "5 minutes",
+      "cookTime": "15 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Semolina (Sooji/Rava)", "quantity": 1, "unit": "cup" },
+        { "name": "Ghee", "quantity": 0.75, "unit": "cup" },
+        { "name": "Sugar", "quantity": 1, "unit": "cup" },
+        { "name": "Water or Milk", "quantity": 3, "unit": "cups" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Cashews and Raisins", "quantity": 2, "unit": "tablespoons" }
+      ],
+      "instructions": [
+        "In a pan, heat the ghee. Add the cashews and roast until golden, then add the raisins and roast until they plump up. Remove and set aside.",
+        "In the same ghee, add the semolina. Roast on low heat, stirring continuously, for about 8-10 minutes, until it becomes fragrant and changes to a light golden color.",
+        "While the sooji is roasting, bring the water/milk to a boil in a separate pot.",
+        "Once the sooji is well-roasted, carefully and slowly pour the hot water/milk into the pan. Be cautious as it will splutter a lot. Stir continuously to avoid lumps.",
+        "The sooji will absorb the liquid quickly. Cover and cook on low heat for 2-3 minutes.",
+        "Add the sugar, cardamom powder, and roasted nuts and raisins. Mix well.",
+        "Cook for another 2-3 minutes until the sugar dissolves and the sheera leaves the sides of the pan.",
+        "Serve hot."
+      ],
+      "notes": [
+        "Roasting the semolina properly is the key to a flavorful, non-sticky sheera.",
+        "This dish is also known as Suji ka Halwa."
+      ]
+    },
+    {
+      "name": "Sheer Korma",
+      "folderName": "sheer_korma",
+      "description": "A rich and festive vermicelli pudding, especially popular during Eid, made with fine vermicelli, milk, dates, sugar, and a variety of nuts.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "30 minutes",
+      "servings": "6-8",
+      "ingredients": [
+        { "name": "Fine vermicelli (seviyan)", "quantity": 0.5, "unit": "cup" },
+        { "name": "Ghee", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Full-fat milk", "quantity": 1, "unit": "liter" },
+        { "name": "Sugar", "quantity": 0.75, "unit": "cup" },
+        { "name": "Dates, pitted and chopped", "quantity": 0.25, "unit": "cup" },
+        { "name": "Mixed nuts (almonds, pistachios, cashews), slivered", "quantity": 0.5, "unit": "cup" },
+        { "name": "Charoli (chironji)", "quantity": 1, "unit": "tablespoon" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Saffron strands", "quantity": 1, "unit": "pinch" }
+      ],
+      "instructions": [
+        "In a pan, heat the ghee. Add all the slivered nuts and charoli. Sauté on low heat until they are lightly golden and fragrant. Remove and set aside.",
+        "In the same ghee, add the vermicelli and roast on low heat until it turns a deep golden brown. Be careful not to burn it.",
+        "Meanwhile, bring the milk to a boil in a separate, heavy-bottomed pot.",
+        "Add the roasted vermicelli to the boiling milk. Also add the chopped dates.",
+        "Simmer on low heat for 10-15 minutes, stirring occasionally, until the vermicelli is cooked and the milk has thickened slightly.",
+        "Add the sugar and stir until it dissolves. Cook for another 5 minutes.",
+        "Add most of the roasted nuts (reserving some for garnish), cardamom powder, and saffron.",
+        "Stir well and turn off the heat.",
+        "Serve warm or chilled, garnished with the remaining nuts."
+      ],
+      "notes": [
+        "'Sheer' means milk and 'Korma' means dates in Persian, indicating the key ingredients.",
+        "The consistency should be like a flowing, creamy pudding, not too thick."
+      ]
+    },
+    {
+      "name": "Shrikhand",
+      "folderName": "shrikhand",
+      "description": "A simple yet elegant dessert from Western India, made from strained yogurt (chakka), sweetened with sugar, and flavored with cardamom and saffron.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "10 minutes (plus 8-12 hours for straining yogurt)",
+      "cookTime": "0 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "Plain full-fat yogurt (curd)", "quantity": 4, "unit": "cups" },
+        { "name": "Powdered sugar", "quantity": 0.75, "unit": "cup" },
+        { "name": "Saffron strands, soaked in 1 tbsp warm milk", "quantity": 1, "unit": "pinch" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Pistachios and Almonds, slivered", "quantity": 2, "unit": "tablespoons" }
+      ],
+      "instructions": [
+        "Place the yogurt in a muslin or cheesecloth. Tie it up, hang it over a bowl, and let the whey drain out for at least 8-12 hours in the refrigerator. This will result in a thick, cheese-like mass called 'chakka' or hung curd.",
+        "Transfer the chakka to a bowl. It should be very thick.",
+        "Add the powdered sugar, saffron-infused milk, and cardamom powder.",
+        "Whisk everything together vigorously until the mixture is very smooth, creamy, and light. You can also pass it through a fine-mesh sieve to get an even smoother texture.",
+        "Stir in most of the slivered nuts.",
+        "Transfer the shrikhand to a serving bowl.",
+        "Chill in the refrigerator for at least 1-2 hours.",
+        "Serve cold, garnished with the remaining nuts."
+      ],
+      "notes": [
+        "Straining the yogurt properly is the most important step to get the right consistency.",
+        "For 'Amrakhand' (mango shrikhand), add 1 cup of thick mango pulp to the mixture."
+      ]
+    },
+    {
+      "name": "Sohan Halwa",
+      "folderName": "sohan_halwa",
+      "description": "A traditional, dense, and nutty sweet confection, typically sold as a disc, made from germinated wheat, milk, sugar, and ghee.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "20 minutes (plus germination time)",
+      "cookTime": "1.5 hours",
+      "servings": "1 large disc",
+      "ingredients": [
+        { "name": "Whole wheat", "quantity": 0.5, "unit": "cup" },
+        { "name": "All-purpose flour (Maida)", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Milk", "quantity": 1, "unit": "liter" },
+        { "name": "Sugar", "quantity": 2, "unit": "cups" },
+        { "name": "Ghee", "quantity": 1, "unit": "cup" },
+        { "name": "Mixed nuts (almonds, pistachios)", "quantity": 0.5, "unit": "cup" },
+        { "name": "Saffron and Cardamom", "quantity": null, "unit": "as needed" }
+      ],
+      "instructions": [
+        "Sprout the whole wheat by soaking and then tying it in a damp cloth for 2-3 days. Grind the sprouts to a fine paste.",
+        "In a large, heavy-bottomed pan, mix the wheat sprout paste, maida, and milk. Cook on low heat, stirring continuously.",
+        "The milk will start to curdle and the mixture will thicken.",
+        "Once it becomes a thick mass, add the sugar and continue to cook, stirring constantly.",
+        "Begin adding ghee, a little at a time, and keep cooking and stirring. The mixture will start to change color and become glossy.",
+        "Cook until it turns a deep brown color and starts to leave the sides of the pan, and the ghee separates.",
+        "Add saffron, cardamom, and nuts.",
+        "Pour into a greased thali or pan. Let it set completely.",
+        "Cut into pieces or serve as a whole disc."
+      ],
+      "notes": [
+        "This is a very traditional and time-consuming recipe. The process is key to its unique flavor and texture.",
+        "Modern, quicker versions often use corn flour and milk powder."
+      ]
+    },
+    {
+      "name": "Sohan Papdi",
+      "folderName": "sohan_papdi",
+      "description": "A popular, super-flaky, and crisp North Indian sweet with a melt-in-the-mouth texture, often sold in cubes or as loose threads.",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes",
+      "cookTime": "45 minutes",
+      "servings": "20-25 pieces",
+      "ingredients": [
+        { "name": "Besan (gram flour)", "quantity": 1.25, "unit": "cups" },
+        { "name": "All-purpose flour (Maida)", "quantity": 1.25, "unit": "cups" },
+        { "name": "Ghee", "quantity": 1.25, "unit": "cups" },
+        { "name": "Sugar", "quantity": 2.5, "unit": "cups" },
+        { "name": "Water", "quantity": 1.5, "unit": "cups" },
+        { "name": "Lemon juice", "quantity": 2, "unit": "teaspoons" },
+        { "name": "Cardamom powder, chopped nuts", "quantity": null, "unit": "for garnish" }
+      ],
+      "instructions": [
+        "This is a complex sweet that requires practice and preferably two people.",
+        "Roast the besan and maida in ghee until a nutty aroma arises. Keep this mixture warm.",
+        "In a separate pan, prepare a sugar syrup with sugar, water, and lemon juice. Cook it until it reaches a hard ball consistency (250°F / 120°C on a candy thermometer).",
+        "Pour the hot sugar syrup into the warm flour-ghee mixture. Mix quickly.",
+        "This next step involves pulling and folding the mixture repeatedly to create the flaky threads. Pour the mixture onto a greased surface. Using handles of wooden spoons or spatulas, lift, pull, and fold the mixture back on itself dozens of times until it forms fine, silky threads.",
+        "Press the flaky mixture into a greased tray, garnish with nuts and cardamom, and press down firmly.",
+        "Let it set for 30 minutes, then cut into squares."
+      ],
+      "notes": [
+        "The process of pulling the sugar is what creates the iconic flaky texture and is very difficult to master.",
+        "The temperature of the sugar syrup is critical."
+      ]
+    },
+    {
+      "name": "Sutar Feni",
+      "folderName": "sutar_feni",
+      "description": "A delicate and thread-like Rajasthani sweet, resembling fine vermicelli, made by stretching a special dough multiple times, which is then fried and often served with sweetened milk (rabri).",
+      "course": "Dessert",
+      "diet": "Vegetarian",
+      "prepTime": "30 minutes",
+      "cookTime": "30 minutes",
+      "servings": "4",
+      "ingredients": [
+        { "name": "All-purpose flour (Maida)", "quantity": 2, "unit": "cups" },
+        { "name": "Ghee", "quantity": 1, "unit": "cup" },
+        { "name": "Corn flour or Rice flour", "quantity": 0.5, "unit": "cup" },
+        { "name": "Ice cold water", "quantity": null, "unit": "as needed" },
+        { "name": "Ghee", "quantity": null, "unit": "for frying" },
+        { "name": "Powdered sugar and nuts", "quantity": null, "unit": "for garnish" }
+      ],
+      "instructions": [
+        "Making Sutar Feni is an extremely skillful and complex process, similar to making hand-pulled noodles.",
+        "A soft dough is made from maida and water.",
+        "A paste is made from ghee and corn flour (this is called 'sata').",
+        "The dough is rolled out, smeared with sata, folded, and rolled again. This is repeated several times.",
+        "The prepared dough is then stretched by hand, looped, and stretched again, repeatedly, to create thousands of extremely fine threads.",
+        "This bundle of threads is then gently shaped into a nest and deep-fried in ghee on low heat until crisp.",
+        "It is then garnished with powdered sugar and nuts, or soaked in sugar syrup.",
+        "Often served with a side of rabri."
+      ],
+      "notes": [
+        "This is a specialty sweet that is almost exclusively made by professional confectioners (halwais) due to the skill involved.",
+        "It is very light, flaky, and delicate."
+      ]
+    },
+    {
+      "name": "Unni Appam",
+      "folderName": "unni_appam",
+      "description": "A small, round, sweet fritter from Kerala, made from a batter of rice flour, jaggery, banana, and coconut, fried in a special molded pan (appakara).",
+      "course": "Snack",
+      "diet": "Vegetarian",
+      "prepTime": "15 minutes (plus 4-5 hours resting)",
+      "cookTime": "25 minutes",
+      "servings": "20-25 appams",
+      "ingredients": [
+        { "name": "Raw rice flour", "quantity": 1, "unit": "cup" },
+        { "name": "Jaggery", "quantity": 0.75, "unit": "cup" },
+        { "name": "Ripe banana, mashed", "quantity": 1, "unit": "large" },
+        { "name": "Coconut pieces (thenga kothu), fried in ghee", "quantity": 2, "unit": "tablespoons" },
+        { "name": "Cardamom powder", "quantity": 0.5, "unit": "teaspoon" },
+        { "name": "Baking soda", "quantity": 1, "unit": "pinch" },
+        "Ghee or Coconut oil",
+        { "quantity": null, "unit": "for frying" }
+      ],
+      "instructions": [
+        "Melt the jaggery with a little water to create a thick syrup. Strain it to remove impurities and let it cool.",
+        "In a bowl, mix the rice flour, mashed banana, cardamom powder, and baking soda.",
+        "Gradually add the cooled jaggery syrup to the flour mixture to make a thick batter, similar to idli batter consistency.",
+        "Stir in the ghee-fried coconut pieces.",
+        "Cover and let the batter rest for at least 4-5 hours.",
+        "Heat an appam pan (aebleskiver pan) and fill each mold halfway with ghee or coconut oil.",
+        "When the oil is hot, pour the batter into each mold.",
+        "Cook on medium-low heat until the bottom is dark brown and the top is cooked.",
+        "Flip each appam and cook the other side until it is also dark brown and crisp.",
+        "Drain and serve warm."
+      ],
+      "notes": [
+        "The batter resting time is important for the flavors to develop and for fermentation.",
+        "The combination of banana, jaggery, and coconut gives it a unique and delicious flavor."
+      ]
+    }
+  ]
+}
